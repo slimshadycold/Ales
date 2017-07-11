@@ -1,0 +1,1536 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Globo - São Paulo [Brazil]" tvg-name="Globo SP" tvg-logo="http://i.imgur.com/seQeWu8.png" group-title="Abertos",Globo SP
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/343.ts
+#EXTINF:-1 tvg-id="Globo - São Paulo [Brazil]" tvg-name="Globo SP *2" tvg-logo="http://i.imgur.com/seQeWu8.png" group-title="Abertos",Globo SP *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/342.ts
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="Globo RJ HD" tvg-logo="http://i.imgur.com/YtDmYxd.png" group-title="Abertos",Globo RJ HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/345.ts
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="Globo RJ" tvg-logo="http://i.imgur.com/seQeWu8.png" group-title="Abertos",Globo RJ
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/344.ts
+#EXTINF:-1 tvg-id="Globo Brasília" tvg-name="Globo Brasília" tvg-logo="http://i.imgur.com/seQeWu8.png" group-title="Abertos",Globo Brasília
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/340.ts
+#EXTINF:-1 tvg-id="Globo Minas" tvg-name="Globo Minas" tvg-logo="http://i.imgur.com/seQeWu8.png" group-title="Abertos",Globo Minas
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/341.ts
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="RBS TV Porto Alegre" tvg-logo="http://i.imgur.com/zfumPkb.png" group-title="Abertos",RBS TV Porto Alegre
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/321.ts
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="RBS TV Porto Alegre #2" tvg-logo="http://i.imgur.com/zfumPkb.png" group-title="Abertos",RBS TV Porto Alegre #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/320.ts
+#EXTINF:-1 tvg-id="TV Anhanguera Goiânia" tvg-name="TV Anhanguera Goiânia" tvg-logo="https://s19.postimg.org/9kz2oc4xv/TVANHANGUERA.png" group-title="Abertos",TV Anhanguera Goiânia
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/314.ts
+#EXTINF:-1 tvg-id="Globo TV Tem Bauru" tvg-name="TV Tem Bauru" tvg-logo="http://i.imgur.com/WsLktH3.png" group-title="Abertos",TV Tem Bauru
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/316.ts
+#EXTINF:-1 tvg-id="Globo TV Tem Bauru" tvg-name="TV Tem São José do Rio Preto #2" tvg-logo="http://i.imgur.com/WsLktH3.png" group-title="Abertos",TV Tem São José do Rio Preto #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/315.ts
+#EXTINF:-1 tvg-id="Globo TV Tem Sorocaba" tvg-name="TV Tem Sorocaba" tvg-logo="http://i.imgur.com/WsLktH3.png" group-title="Abertos",TV Tem Sorocaba
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/317.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Tribuna Santos #2" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tvtribunaglobo.png" group-title="Abertos",TV Tribuna Santos #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/301.ts
+#EXTINF:-1 tvg-id="Canal TV Globo Internacional" tvg-name="Globo Internacional HD" tvg-logo="https://s19.postimg.org/go1w6u41v/GLOBOINTERNACIONAL.png" group-title="Abertos",Globo Internacional HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/339.ts
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://i.imgur.com/8LVNzHE.png" group-title="Abertos",SBT HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/330.ts
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="http://i.imgur.com/92aHEWp.png" group-title="Abertos",SBT
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/331.ts
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT *2" tvg-logo="http://i.imgur.com/92aHEWp.png" group-title="Abertos",SBT *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/332.ts
+#EXTINF:-1 tvg-id="Record" tvg-name="Record TV HD" tvg-logo="http://i.imgur.com/6oHWwmC.png" group-title="Abertos",Record TV HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/336.ts
+#EXTINF:-1 tvg-id="Record" tvg-name="Record TV" tvg-logo="http://i.imgur.com/YHKNOt5.png" group-title="Abertos",Record TV
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/337.ts
+#EXTINF:-1 tvg-id="Record" tvg-name="Record TV *2" tvg-logo="http://i.imgur.com/YHKNOt5.png" group-title="Abertos",Record TV *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/338.ts
+#EXTINF:-1 tvg-id="Band Rede [Brazil]" tvg-name="Band HD" tvg-logo="http://i.imgur.com/JtBojcw.png" group-title="Abertos",Band HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/328.ts
+#EXTINF:-1 tvg-id="Band Rede [Brazil]" tvg-name="Band" tvg-logo="http://i.imgur.com/eBijKBU.png" group-title="Abertos",Band
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/329.ts
+#EXTINF:-1 tvg-id="Band Rede [Brazil]" tvg-name="Band" tvg-logo="http://i.imgur.com/eBijKBU.png" group-title="Abertos",Band
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/327.ts
+#EXTINF:-1 tvg-id="Band Rede [Brazil]" tvg-name="Band" tvg-logo="http://i.imgur.com/eBijKBU.png" group-title="Abertos",Band
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/326.ts
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="Rede TV HD" tvg-logo="http://i.imgur.com/nX0ruIf.png" group-title="Abertos",Rede TV HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/335.ts
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="Rede TV" tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="Abertos",Rede TV
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/334.ts
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="Rede TV *2" tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="Abertos",Rede TV *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/333.ts
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-name="Rede Brasil" tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="Abertos",Rede Brasil
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/319.ts
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-name="Rede Brasil #2" tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="Abertos",Rede Brasil #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/318.ts
+#EXTINF:-1 tvg-id="Cultura" tvg-name="TV Cultura" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="Abertos",TV Cultura
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/309.ts
+#EXTINF:-1 tvg-id="Cultura" tvg-name="TV Cultura #2" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="Abertos",TV Cultura #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/308.ts
+#EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV Brasil" tvg-logo="https://s19.postimg.org/yn1m16bcz/TVBRASIL.png" group-title="Abertos",TV Brasil
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/311.ts
+#EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV Brasil #2" tvg-logo="https://s19.postimg.org/yn1m16bcz/TVBRASIL.png" group-title="Abertos",TV Brasil #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/310.ts
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura" tvg-logo="https://abdecrn.files.wordpress.com/2011/05/futura.gif" group-title="Abertos",Futura
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/325.ts
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura *2" tvg-logo="https://abdecrn.files.wordpress.com/2011/05/futura.gif" group-title="Abertos",Futura *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/324.ts
+#EXTINF:-1 tvg-id="Terra Viva" tvg-name="Terra Viva" tvg-logo="http://i.imgur.com/6vBfgpS.png" group-title="Abertos",Terra Viva
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/313.ts
+#EXTINF:-1 tvg-id="Terra Viva" tvg-name="Terra Viva #2" tvg-logo="http://i.imgur.com/6vBfgpS.png" group-title="Abertos",Terra Viva #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/312.ts
+#EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural" tvg-logo="http://i.imgur.com/jtiMetX.png" group-title="Abertos",Canal Rural
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/307.ts
+#EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural #2" tvg-logo="http://i.imgur.com/jtiMetX.png" group-title="Abertos",Canal Rural #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/306.ts
+#EXTINF:-1 tvg-id="TV Câmara" tvg-name="TV Camara #2" tvg-logo="http://i.imgur.com/no1Al0A.png" group-title="Abertos",TV Camara #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/305.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Justiça #2" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tvjustica.png" group-title="Abertos",TV Justiça #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/303.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Senado" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/2/20/TV_Senado_logo.svg/revision/latest/scale-to-width-down/640?cb=20151126135746" group-title="Abertos",TV Senado
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/302.ts
+#EXTINF:-1 tvg-id="TV Escola" tvg-name="TV Escola #2" tvg-logo="http://i.imgur.com/no1Al0A.png" group-title="Abertos",TV Escola #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/304.ts
+#EXTINF:-1 tvg-id="NBR" tvg-name="NBR" tvg-logo="https://s19.postimg.org/pxmfzx6gz/NBR.png" group-title="Abertos",NBR
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/323.ts
+#EXTINF:-1 tvg-id="NBR" tvg-name="NBR #2" tvg-logo="https://s19.postimg.org/pxmfzx6gz/NBR.png" group-title="Abertos",NBR #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/322.ts
+#EXTINF:-1 tvg-id="SporTV [Brazil]" tvg-name="Sport TV HD" tvg-logo="http://i.imgur.com/EaUaYZp.png" group-title="Esportes",Sport TV HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/177.ts
+#EXTINF:-1 tvg-id="SporTV [Brazil]" tvg-name="Sport TV" tvg-logo="http://i.imgur.com/EaUaYZp.png" group-title="Esportes",Sport TV
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/176.ts
+#EXTINF:-1 tvg-id="SporTV 2 [Brazil]" tvg-name="Sport TV 2 HD" tvg-logo="http://i.imgur.com/qDJBu3O.png" group-title="Esportes",Sport TV 2 HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/172.ts
+#EXTINF:-1 tvg-id="SporTV 2 [Brazil]" tvg-name="Sport TV 2" tvg-logo="http://i.imgur.com/qDJBu3O.png" group-title="Esportes",Sport TV 2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/171.ts
+#EXTINF:-1 tvg-id="SporTV 3 [Brazil]" tvg-name="Sport TV 3 HD" tvg-logo="http://i.imgur.com/86vWSqY.png" group-title="Esportes",Sport TV 3 HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/167.ts
+#EXTINF:-1 tvg-id="SporTV 3 [Brazil]" tvg-name="Sport TV 3" tvg-logo="http://i.imgur.com/86vWSqY.png" group-title="Esportes",Sport TV 3
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/166.ts
+#EXTINF:-1 tvg-id="EI Maxx" tvg-name="Ei Maxx HD" tvg-logo="https://s19.postimg.org/pifb19szn/EIMAX.png" group-title="Esportes",Ei Maxx HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/147.ts
+#EXTINF:-1 tvg-id="EI Maxx" tvg-name="EI Maxx" tvg-logo="https://s19.postimg.org/pifb19szn/EIMAX.png" group-title="Esportes",EI Maxx
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/146.ts
+#EXTINF:-1 tvg-id="EI Maxx 2" tvg-name="Ei Maxx 2 HD" tvg-logo="https://s19.postimg.org/pifb19szn/EIMAX.png" group-title="Esportes",Ei Maxx 2 HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/144.ts
+#EXTINF:-1 tvg-id="EI Maxx 2" tvg-name="EI Maxx 2" tvg-logo="https://s19.postimg.org/pifb19szn/EIMAX.png" group-title="Esportes",EI Maxx 2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/143.ts
+#EXTINF:-1 tvg-id="Esporte Interativo" tvg-name="Esporte Interativo HD" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",Esporte Interativo HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/158.ts
+#EXTINF:-1 tvg-id="Fox Sports [Brazil]" tvg-name="Fox Sport HD" tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png" group-title="Esportes",Fox Sport HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/164.ts
+#EXTINF:-1 tvg-id="Fox Sports [Brazil]" tvg-name="Fox Sports" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Esportes",Fox Sports
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/163.ts
+#EXTINF:-1 tvg-id="Fox Sports 2 [Brazil]" tvg-name="FOX Sports 2 HD" tvg-logo="http://assets.enterplay.com.br/images/Channels/Original/fox_sports2.png" group-title="Esportes",FOX Sports 2 HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/161.ts
+#EXTINF:-1 tvg-id="Fox Sports 2 [Brazil]" tvg-name="Fox Sports 2" tvg-logo="http://i.imgur.com/imNhdzS.png" group-title="Esportes",Fox Sports 2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/160.ts
+#EXTINF:-1 tvg-id="ESPN+ [Brazil]" tvg-name="ESPN + HD" tvg-logo="http://i.imgur.com/1ZVyLnJ.png" group-title="Esportes",ESPN + HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/154.ts
+#EXTINF:-1 tvg-id="ESPN International [Brazil]" tvg-name="ESPN HD" tvg-logo="https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="Esportes",ESPN HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/148.ts
+#EXTINF:-1 tvg-id="ESPN+ [Brazil]" tvg-name="ESPN +" tvg-logo="http://i.imgur.com/1ZVyLnJ.png" group-title="Esportes",ESPN +
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/153.ts
+#EXTINF:-1 tvg-id="ESPN Brasil [Brazil]" tvg-name="ESPN Brasil HD" tvg-logo="https://s15.postimg.org/osy22irjv/ESPN_Brasil.png" group-title="Esportes",ESPN Brasil HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/151.ts
+#EXTINF:-1 tvg-id="ESPN Brasil [Brazil]" tvg-name="ESPN Brasil" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="Esportes",ESPN Brasil
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/150.ts
+#EXTINF:-1 tvg-id="BandSports" tvg-name="Band Sports HD" tvg-logo="http://i.imgur.com/wuMZB2S.png" group-title="Esportes",Band Sports HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/155.ts
+#EXTINF:-1 tvg-id="BandSports" tvg-name="Band Sports" tvg-logo="http://i.imgur.com/wuMZB2S.png" group-title="Esportes",Band Sports
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/156.ts
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="Woohoo" tvg-logo="http://i.imgur.com/Dt61U19.png" group-title="Esportes",Woohoo
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/136.ts
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="Fish TV" tvg-logo="http://i.imgur.com/HXQoT1u.png" group-title="Esportes",Fish TV
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/138.ts
+#EXTINF:-1 tvg-id="Off" tvg-name="OFF HD" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Esportes",OFF HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/141.ts
+#EXTINF:-1 tvg-id="Off" tvg-name="OFF" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Esportes",OFF
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/140.ts
+#EXTINF:-1 tvg-id="Combate [Brazil]" tvg-name="Combate HD" tvg-logo="http://i.imgur.com/dOFWcWV.png" group-title="Esportes",Combate HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/201.ts
+#EXTINF:-1 tvg-id="Combate [Brazil]" tvg-name="Combate" tvg-logo="http://i.imgur.com/dOFWcWV.png" group-title="Esportes",Combate
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/202.ts
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="http://i.imgur.com/PqkG8Ec.png" group-title="Esportes",Premiere Clubes
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere 1 HD" tvg-logo="http://i.imgur.com/pwysWJu.png" group-title="Esportes",Premiere 1 HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/200.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="http://i.imgur.com/pwysWJu.png" group-title="Esportes",Premiere 2 HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/197.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="http://i.imgur.com/pwysWJu.png" group-title="Esportes",Premiere 2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/198.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="http://i.imgur.com/pwysWJu.png" group-title="Esportes",Premiere 3 HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/196.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3" tvg-logo="http://i.imgur.com/pwysWJu.png" group-title="Esportes",Premiere 3
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/195.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="http://i.imgur.com/pwysWJu.png" group-title="Esportes",Premiere 4 HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/193.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4" tvg-logo="http://i.imgur.com/pwysWJu.png" group-title="Esportes",Premiere 4
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/192.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="http://i.imgur.com/pwysWJu.png" group-title="Esportes",Premiere 5 HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/190.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5" tvg-logo="http://i.imgur.com/pwysWJu.png" group-title="Esportes",Premiere 5
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/189.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="http://i.imgur.com/pwysWJu.png" group-title="Esportes",Premiere 6
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/187.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="http://i.imgur.com/pwysWJu.png" group-title="Esportes",Premiere 7
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/185.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8" tvg-logo="http://i.imgur.com/pwysWJu.png" group-title="Esportes",Premiere 8
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/183.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 9" tvg-logo="http://i.imgur.com/pwysWJu.png" group-title="Esportes",Premiere 9
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/181.ts
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium HD" tvg-logo="http://s17.postimg.org/lig6fpj4r/telecinepremium.png" group-title="Filmes e Series",Telecine Premium HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/287.ts
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Filmes e Series",Telecine Premium
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/286.ts
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium *2" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Filmes e Series",Telecine Premium *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/285.ts
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action HD" tvg-logo="http://s9.postimg.org/vd00n5o4b/telecineaction.png" group-title="Filmes e Series",Telecine Action HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/296.ts
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Filmes e Series",Telecine Action
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/295.ts
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action *2" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Filmes e Series",Telecine Action *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/294.ts
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch HD" tvg-logo="http://s17.postimg.org/gva4dxvrv/telecinetouch.png" group-title="Filmes e Series",Telecine Touch HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/284.ts
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Filmes e Series",Telecine Touch
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/283.ts
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch *2" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Filmes e Series",Telecine Touch *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/282.ts
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca HD" tvg-logo="http://s17.postimg.org/ty5qx7lzv/telecinepipoca.png" group-title="Filmes e Series",Telecine Pipoca HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/290.ts
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="Filmes e Series",Telecine Pipoca
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/289.ts
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca *2" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="Filmes e Series",Telecine Pipoca *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/288.ts
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun HD" tvg-logo="http://s17.postimg.org/hv0f9naxn/telecinefun.png" group-title="Filmes e Series",Telecine Fun HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/293.ts
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Filmes e Series",Telecine Fun
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/292.ts
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun *2" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Filmes e Series",Telecine Fun *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/291.ts
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" tvg-logo="https://s19.postimg.org/a44mgzdab/TCCULT.png" group-title="Filmes e Series",Telecine Cult
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/281.ts
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult *2" tvg-logo="https://s19.postimg.org/a44mgzdab/TCCULT.png" group-title="Filmes e Series",Telecine Cult *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/280.ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="Filmes e Series",HBO HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/273.ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://s19.postimg.org/rrlicfpc3/HBO.png" group-title="Filmes e Series",HBO
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/272.ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO *2" tvg-logo="https://s19.postimg.org/rrlicfpc3/HBO.png" group-title="Filmes e Series",HBO *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/271.ts
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD" tvg-logo="http://s32.postimg.org/ro8fqkzoh/HBO_2.png" group-title="Filmes e Series",HBO 2 HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/279.ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO 2" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Filmes e Series",HBO 2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/278.ts
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 *2" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Filmes e Series",HBO 2 *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/277.ts
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family HD" tvg-logo="https://s31.postimg.org/lw2etrpff/HBO_Family.png" group-title="Filmes e Series",HBO Family HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/276.ts
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Filmes e Series",HBO Family
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/275.ts
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family *2" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Filmes e Series",HBO Family *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/274.ts
+#EXTINF:-1 tvg-id="HBO Plus Brasil" tvg-name="HBO Plus HD" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Filmes e Series",HBO Plus HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/270.ts
+#EXTINF:-1 tvg-id="HBO Plus Brasil" tvg-name="HBO Plus" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Filmes e Series",HBO Plus
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/269.ts
+#EXTINF:-1 tvg-id="HBO Plus Brasil" tvg-name="HBO Plus HD *2" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Filmes e Series",HBO Plus HD *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/268.ts
+#EXTINF:-1 tvg-id="HBO Plus Brasil" tvg-name="HBO Plus e" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Filmes e Series",HBO Plus e
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/264.ts
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature HD" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Filmes e Series",HBO Signature HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/267.ts
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Filmes e Series",HBO Signature
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/266.ts
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature *2" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Filmes e Series",HBO Signature *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/265.ts
+#EXTINF:-1 tvg-id="Max [Brazil]" tvg-name="Max" tvg-logo="http://i.imgur.com/49eEDXa.png" group-title="Filmes e Series",Max
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/240.ts
+#EXTINF:-1 tvg-id="Max Prime [Brazil]" tvg-name="Max Prime" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Filmes e Series",Max Prime
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/239.ts
+#EXTINF:-1 tvg-id="Max Prime [Brazil]" tvg-name="Max Prime #2" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Filmes e Series",Max Prime #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/238.ts
+#EXTINF:-1 tvg-id="Max Prime *e [Brazil]" tvg-name="Max Prime *e" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Filmes e Series",Max Prime *e
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/237.ts
+#EXTINF:-1 tvg-id="Max Prime *e [Brazil]" tvg-name="Max Prime *e #2" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Filmes e Series",Max Prime *e #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/236.ts
+#EXTINF:-1 tvg-id="Max Up HD [Brazil]" tvg-name="Max UP" tvg-logo="http://i.imgur.com/3Ci9AWu.png" group-title="Filmes e Series",Max UP
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/235.ts
+#EXTINF:-1 tvg-id="Max Up HD [Brazil]" tvg-name="Max UP # 2" tvg-logo="http://i.imgur.com/3Ci9AWu.png" group-title="Filmes e Series",Max UP # 2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/234.ts
+#EXTINF:-1 tvg-id="Fox [Brazil]" tvg-name="FOX HD" tvg-logo="http://i.imgur.com/Iu8nl2W.png" group-title="Filmes e Series",FOX HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/256.ts
+#EXTINF:-1 tvg-id="Fox [Brazil]" tvg-name="Fox" tvg-logo="http://i.imgur.com/Iu8nl2W.png" group-title="Filmes e Series",Fox
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/255.ts
+#EXTINF:-1 tvg-id="Fox [Brazil]" tvg-name="Fox *2" tvg-logo="http://i.imgur.com/Iu8nl2W.png" group-title="Filmes e Series",Fox *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/254.ts
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Filmes e Series",FX HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/247.ts
+#EXTINF:-1 tvg-id="FX" tvg-name="FX #2" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Filmes e Series",FX #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/248.ts
+#EXTINF:-1 tvg-id="Fox Life [Brazil]" tvg-name="FOX Life HD" tvg-logo="http://i.imgur.com/aSAnGmG.png" group-title="Filmes e Series",FOX Life HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/250.ts
+#EXTINF:-1 tvg-id="Fox Life [Brazil]" tvg-name="Fox Life" tvg-logo="http://i.imgur.com/2gie592.png" group-title="Filmes e Series",Fox Life
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/251.ts
+#EXTINF:-1 tvg-id="Fox Life [Brazil]" tvg-name="Fox Life *2" tvg-logo="http://i.imgur.com/2gie592.png" group-title="Filmes e Series",Fox Life *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/252.ts
+#EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="Fox Premium" tvg-logo="https://s19.postimg.org/xj7uecv0j/FOXPREMIUM1.png" group-title="Filmes e Series",Fox Premium
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/257.ts
+#EXTINF:-1 tvg-id="Fox Premium 2" tvg-name="Fox Premium 2" tvg-logo="https://s19.postimg.org/3tunm0bur/FOXPREMIUM2.png" group-title="Filmes e Series",Fox Premium 2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/253.ts
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel HD" tvg-logo="http://i.imgur.com/0qAgY7N.png" group-title="Filmes e Series",Warner Channel HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/241.ts
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel" tvg-logo="http://i.imgur.com/HBaycf4.png" group-title="Filmes e Series",Warner Channel
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/242.ts
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel *2" tvg-logo="http://i.imgur.com/HBaycf4.png" group-title="Filmes e Series",Warner Channel *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/243.ts
+#EXTINF:-1 tvg-id="Sony" tvg-name="Canal Sony HD" tvg-logo="https://s31.postimg.org/r52hou6h7/sony2.png" group-title="Filmes e Series",Canal Sony HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/210.ts
+#EXTINF:-1 tvg-id="Sony" tvg-name="Canal Sony" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Filmes e Series",Canal Sony
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/212.ts
+#EXTINF:-1 tvg-id="Sony" tvg-name="Canal Sony *2" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Filmes e Series",Canal Sony *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/211.ts
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="http://i.imgur.com/wtLZgX5.png" group-title="Filmes e Series",TNT HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/263.ts
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://i.imgur.com/wtLZgX5.png" group-title="Filmes e Series",TNT
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/262.ts
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT *2" tvg-logo="http://i.imgur.com/wtLZgX5.png" group-title="Filmes e Series",TNT *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/261.ts
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Séries HD" tvg-logo="http://i.imgur.com/ky7Nxh1.png" group-title="Filmes e Series",TNT Séries HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/260.ts
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series" tvg-logo="http://i.imgur.com/ky7Nxh1.png" group-title="Filmes e Series",TNT Series
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/259.ts
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series *2" tvg-logo="http://i.imgur.com/ky7Nxh1.png" group-title="Filmes e Series",TNT Series *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/258.ts
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel HD" tvg-logo="https://s19.postimg.org/tr2kn80lf/UNIVERSAL.png" group-title="Filmes e Series",Universal Channel HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/208.ts
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="https://s19.postimg.org/tr2kn80lf/UNIVERSAL.png" group-title="Filmes e Series",Universal Channel
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/209.ts
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel #2" tvg-logo="https://s19.postimg.org/tr2kn80lf/UNIVERSAL.png" group-title="Filmes e Series",Universal Channel #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/213.ts
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Filmes e Series",Studio Universal
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/218.ts
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal #2" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Filmes e Series",Studio Universal #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/219.ts
+#EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix HD" tvg-logo="http://i.imgur.com/LewQb1v.png" group-title="Filmes e Series",Megapix HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/244.ts
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MegaPix" tvg-logo="http://i.imgur.com/LewQb1v.png" group-title="Filmes e Series",MegaPix
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/245.ts
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MegaPix *2" tvg-logo="http://i.imgur.com/LewQb1v.png" group-title="Filmes e Series",MegaPix *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/246.ts
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount HD" tvg-logo="https://s31.postimg.org/f9lq0eei3/paramount.png" group-title="Filmes e Series",Paramount HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/228.ts
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Filmes e Series",Paramount
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/227.ts
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount HD *2" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Filmes e Series",Paramount HD *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/226.ts
+#EXTINF:-1 tvg-id="Space" tvg-name="Space HD" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Filmes e Series",Space HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/223.ts
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Filmes e Series",Space
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/224.ts
+#EXTINF:-1 tvg-id="Space" tvg-name="Space #2" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Filmes e Series",Space #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/225.ts
+#EXTINF:-1 tvg-id="Cinemax [Brazil]" tvg-name="Cinemax" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Filmes e Series",Cinemax
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/230.ts
+#EXTINF:-1 tvg-id="Cinemax [Brazil]" tvg-name="Cinemax #2" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Filmes e Series",Cinemax #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/229.ts
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="Filmes e Series",A&E
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/299.ts
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E *2" tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="Filmes e Series",A&E *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/300.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://i.imgur.com/u0NMVSV.png" group-title="Filmes e Series",AXN HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/231.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://i.imgur.com/u0NMVSV.png" group-title="Filmes e Series",AXN
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/232.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN *2" tvg-logo="http://i.imgur.com/u0NMVSV.png" group-title="Filmes e Series",AXN *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/233.ts
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil" tvg-logo="http://i.imgur.com/sr4qDgo.png" group-title="Filmes e Series",Canal Brasil
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/298.ts
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil *2" tvg-logo="http://i.imgur.com/sr4qDgo.png" group-title="Filmes e Series",Canal Brasil *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/297.ts
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="http://i.imgur.com/HgmpKDu.png" group-title="Filmes e Series",TCM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/214.ts
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM #2" tvg-logo="http://i.imgur.com/HgmpKDu.png" group-title="Filmes e Series",TCM #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/215.ts
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="http://i.imgur.com/nRBPSZp.png" group-title="Filmes e Series",Syfy
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/216.ts
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy #2" tvg-logo="http://i.imgur.com/nRBPSZp.png" group-title="Filmes e Series",Syfy #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/217.ts
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Filmes e Series",TBS HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/220.ts
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Filmes e Series",TBS
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/221.ts
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS #2" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Filmes e Series",TBS #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/222.ts
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="http://i.imgur.com/ZekUX7A.png" group-title="Filmes e Series",Comedy Central
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/97.ts
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central #2" tvg-logo="http://i.imgur.com/ZekUX7A.png" group-title="Filmes e Series",Comedy Central #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/96.ts
+#EXTINF:-1 tvg-id="I.Sat" tvg-name="I-SAT" tvg-logo="http://i.imgur.com/L44p3if.png" group-title="Filmes e Series",I-SAT
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/206.ts
+#EXTINF:-1 tvg-id="I.Sat" tvg-name="I-SAT #2" tvg-logo="http://i.imgur.com/L44p3if.png" group-title="Filmes e Series",I-SAT #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/207.ts
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA HD" tvg-logo="http://i.imgur.com/kadMdc9.png" group-title="Variedades e Musicas",VIVA HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/79.ts
+#EXTINF:-1 tvg-id="" tvg-name="Viva" tvg-logo="http://i.imgur.com/kadMdc9.png" group-title="Variedades e Musicas",Viva
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/78.ts
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva *2" tvg-logo="http://i.imgur.com/kadMdc9.png" group-title="Variedades e Musicas",Viva *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/77.ts
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD" tvg-logo="http://i.imgur.com/cfJR8v5.png" group-title="Variedades e Musicas",GNT HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/82.ts
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="http://i.imgur.com/cfJR8v5.png" group-title="Variedades e Musicas",GNT
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/81.ts
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT *2" tvg-logo="http://i.imgur.com/cfJR8v5.png" group-title="Variedades e Musicas",GNT *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/80.ts
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Mais Globosat" tvg-logo="http://i.imgur.com/ep1Op1L.png" group-title="Filmes e Series",Mais Globosat
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/204.ts
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="Mais Globosat *2" tvg-logo="http://i.imgur.com/ep1Op1L.png" group-title="Filmes e Series",Mais Globosat *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/205.ts
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow HD" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Variedades e Musicas",Multishow HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/93.ts
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Variedades e Musicas",Multishow
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/92.ts
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow *2" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Variedades e Musicas",Multishow *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/91.ts
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS HD" tvg-logo="http://i.imgur.com/h2pmOca.png" group-title="Variedades e Musicas",BIS HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/100.ts
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="http://i.imgur.com/h2pmOca.png" group-title="Variedades e Musicas",BIS
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/99.ts
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS *2" tvg-logo="http://i.imgur.com/h2pmOca.png" group-title="Variedades e Musicas",BIS *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/98.ts
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Variedades e Musicas",MTV
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/86.ts
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV *2" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Variedades e Musicas",MTV *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/85.ts
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="Music Box Brazil" tvg-logo="http://i.imgur.com/oRSHAl1.png" group-title="Variedades e Musicas",Music Box Brazil
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/84.ts
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="Music Box Brazil #2" tvg-logo="http://i.imgur.com/oRSHAl1.png" group-title="Variedades e Musicas",Music Box Brazil #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/83.ts
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="Prime Box Brazil" tvg-logo="http://i.imgur.com/K7p1g86.png" group-title="Variedades e Musicas",Prime Box Brazil
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/90.ts
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="Prime Box Brazil *2" tvg-logo="http://i.imgur.com/K7p1g86.png" group-title="Variedades e Musicas",Prime Box Brazil *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/89.ts
+#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-name="VH1 Megahits" tvg-logo="http://i.imgur.com/qgozfSK.png" group-title="Variedades e Musicas",VH1 Megahits
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/88.ts
+#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-name="VH1 Megahits #2" tvg-logo="http://i.imgur.com/qgozfSK.png" group-title="Variedades e Musicas",VH1 Megahits #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/87.ts
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta!" tvg-logo="https://s19.postimg.org/v52h79gqr/CURTA.png" group-title="Variedades e Musicas",Curta!
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/94.ts
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta! #2" tvg-logo="https://s19.postimg.org/v52h79gqr/CURTA.png" group-title="Variedades e Musicas",Curta! #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/95.ts
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="https://s19.postimg.org/y72g8p8n7/E_E.png" group-title="Variedades e Musicas",E!
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/69.ts
+#EXTINF:-1 tvg-id="E!" tvg-name="E! *2" tvg-logo="https://s19.postimg.org/y72g8p8n7/E_E.png" group-title="Variedades e Musicas",E! *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/68.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://i.imgur.com/zQM47Cf.png" group-title="Variedades e Musicas",TLC
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/76.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC *2" tvg-logo="http://i.imgur.com/zQM47Cf.png" group-title="Variedades e Musicas",TLC *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/75.ts
+#EXTINF:-1 tvg-id="" tvg-name="TruTV" tvg-logo="http://i.imgur.com/weW9Upy.png" group-title="Variedades e Musicas",TruTV
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/74.ts
+#EXTINF:-1 tvg-id="TruTV" tvg-name="TruTV #2" tvg-logo="http://i.imgur.com/weW9Upy.png" group-title="Variedades e Musicas",TruTV #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/73.ts
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="http://i.imgur.com/USpDZ09.png" group-title="Variedades e Musicas",Food Network
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/71.ts
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network #2" tvg-logo="http://i.imgur.com/USpDZ09.png" group-title="Variedades e Musicas",Food Network #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/70.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="http://i.imgur.com/2zr2KmL.png" group-title="Variedades e Musicas",Lifetime
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/72.ts
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime #3" tvg-logo="http://i.imgur.com/2zr2KmL.png" group-title="Filmes e Series",Lifetime #3
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/249.ts
+#EXTINF:-1 tvg-id="" tvg-name="NHK" tvg-logo="http://i.imgur.com/97S2U28.png" group-title="Variedades e Musicas",NHK
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/65.ts
+#EXTINF:-1 tvg-id="" tvg-name="NHK #2" tvg-logo="http://i.imgur.com/97S2U28.png" group-title="Variedades e Musicas",NHK #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/64.ts
+#EXTINF:-1 tvg-id="PlayTV" tvg-name="Play TV" tvg-logo="http://i.imgur.com/caWgstt.png" group-title="Variedades e Musicas",Play TV
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/42.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polishop" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/polishop-logo.png" group-title="Variedades e Musicas",Polishop
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/67.ts
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="http://i.imgur.com/ggVGWjw.png" group-title="Infantis",Tooncast
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/48.ts
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast #2" tvg-logo="http://i.imgur.com/ggVGWjw.png" group-title="Infantis",Tooncast #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/47.ts
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://i.imgur.com/syou7kI.png" group-title="Infantis",Boomerang
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/60.ts
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang *2" tvg-logo="http://i.imgur.com/syou7kI.png" group-title="Infantis",Boomerang *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/59.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network HD" tvg-logo="https://s32.postimg.org/ih9e2ouvp/cartoon_network.png" group-title="Infantis",Cartoon Network HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/63.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://s32.postimg.org/ih9e2ouvp/cartoon_network.png" group-title="Infantis",Cartoon Network
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/62.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network *2" tvg-logo="https://s32.postimg.org/ih9e2ouvp/cartoon_network.png" group-title="Infantis",Cartoon Network *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/61.ts
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Infantis",Gloob
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/44.ts
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob *2" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Infantis",Gloob *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/43.ts
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://s32.postimg.org/tqw8358qd/discoverykids.png" group-title="Infantis",Discovery Kids
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/46.ts
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids #2" tvg-logo="https://s32.postimg.org/tqw8358qd/discoverykids.png" group-title="Infantis",Discovery Kids #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/45.ts
+#EXTINF:-1 tvg-id="Disney Channel [Brazil]" tvg-name="Disney Channel" tvg-logo="https://s19.postimg.org/z1kegzr43/DISNEYCHANNEL.png" group-title="Infantis",Disney Channel
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/58.ts
+#EXTINF:-1 tvg-id="Disney Channel [Brazil]" tvg-name="Disney Channel #2" tvg-logo="https://s19.postimg.org/z1kegzr43/DISNEYCHANNEL.png" group-title="Infantis",Disney Channel #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/57.ts
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="http://i.imgur.com/H9AY5z4.png" group-title="Infantis",Disney Junior
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/56.ts
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior *2" tvg-logo="http://i.imgur.com/H9AY5z4.png" group-title="Infantis",Disney Junior *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/55.ts
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Infantis",Disney XD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/54.ts
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD *2" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Infantis",Disney XD *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/53.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantis",Nickelodeon
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/50.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon #2" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantis",Nickelodeon #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/49.ts
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Infantis",Nick Jr
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/52.ts
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr *2" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Infantis",Nick Jr *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/51.ts
+#EXTINF:-1 tvg-id="TV Rá-Tim-Bum" tvg-name="TV Ra tim bum" tvg-logo="http://i.imgur.com/0HQ20e3.png" group-title="Infantis",TV Ra tim bum
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/41.ts
+#EXTINF:-1 tvg-id="TV Rá-Tim-Bum" tvg-name="TV Ra tim bum #2" tvg-logo="http://i.imgur.com/0HQ20e3.png" group-title="Infantis",TV Ra tim bum #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/40.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo News" tvg-logo="https://s19.postimg.org/5i2zs54hv/GLOBONEWS.png" group-title="Noticiarios",Globo News
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/18.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo News *2" tvg-logo="https://s19.postimg.org/5i2zs54hv/GLOBONEWS.png" group-title="Noticiarios",Globo News *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/19.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band News" tvg-logo="http://static.feirasenegocios.com.br/static/images/LOGO_BANDNEWS.png" group-title="Noticiarios",Band News
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/20.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band News *2" tvg-logo="http://static.feirasenegocios.com.br/static/images/LOGO_BANDNEWS.png" group-title="Noticiarios",Band News *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/21.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record News" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Noticiarios",Record News
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/23.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record News *2" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Noticiarios",Record News *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/22.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN Espanhol" tvg-logo="http://i.imgur.com/i40rOj3.png" group-title="Noticiarios",CNN Espanhol
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/17.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN Internacional" tvg-logo="http://i.imgur.com/i40rOj3.png" group-title="Noticiarios",CNN Internacional
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/16.ts
+#EXTINF:-1 tvg-id="" tvg-name="RAI" tvg-logo="http://i.imgur.com/dWYpp4y.png" group-title="Noticiarios",RAI
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/12.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png" group-title="Noticiarios",CNT
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/15.ts
+#EXTINF:-1 tvg-id="RBI TV" tvg-name="RBI" tvg-logo="http://i.imgur.com/y8YCFOZ.png" group-title="Religiosos",RBI
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/35.ts
+#EXTINF:-1 tvg-id="" tvg-name="RBI #2" tvg-logo="http://i.imgur.com/y8YCFOZ.png" group-title="Noticiarios",RBI #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/11.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC Internacional" tvg-logo="http://i.imgur.com/GsoX6Ep.png" group-title="Noticiarios",SIC Internacional
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/14.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC Internacional #2" tvg-logo="http://i.imgur.com/GsoX6Ep.png" group-title="Noticiarios",SIC Internacional #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/13.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV5 Monde" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV5MONDE_logo.png" group-title="Noticiarios",TV5 Monde
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/10.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVCI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/TVCi.png" group-title="Noticiarios",TVCI
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/9.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_TVE-Internacional.svg" group-title="Noticiarios",TVE
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/8.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVE #2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png" group-title="Noticiarios",TVE #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/7.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel HD" tvg-logo="http://s7.postimg.org/ri6fckurf/u6v_J0_KXt_VCjzrzf_LHqyum_P1ue_Goqcv_DIp7_S4zx_GXNF4x_Tiqk.png" group-title="Documentarios",Discovery Channel HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/133.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://s13.postimg.io/msb5b9u7r/discchannel.png" group-title="Documentarios",Discovery Channel
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/132.ts
+#EXTINF:-1 tvg-id="Disney Channel [Brazil]" tvg-name="Discovery Channel #2" tvg-logo="https://s13.postimg.io/msb5b9u7r/discchannel.png" group-title="Documentarios",Discovery Channel #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/131.ts
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home & Health HD" tvg-logo="http://i.imgur.com/ccfBNRH.png" group-title="Documentarios",Discovery Home & Health HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/130.ts
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home & Health" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Documentarios",Discovery Home & Health
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/129.ts
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home & Health #2" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Documentarios",Discovery Home & Health #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/128.ts
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater HD" tvg-logo="http://i.imgur.com/DHNMh5i.png" group-title="Documentarios",Discovery Theater HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/127.ts
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo HD" tvg-logo="https://s32.postimg.org/6wvxqle9x/turbo.png" group-title="Documentarios",Discovery Turbo HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/126.ts
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="Documentarios",Discovery Turbo
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/125.ts
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo *2" tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="Documentarios",Discovery Turbo *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/124.ts
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World HD" tvg-logo="http://i.imgur.com/pZLvsXH.png" group-title="Documentarios",Discovery World HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/123.ts
+#EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-name="ID - Investigação Discovery HD" tvg-logo="https://s32.postimg.org/xy559rchx/discoveryid.png" group-title="Documentarios",ID - Investigação Discovery HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/109.ts
+#EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-name="ID - Investigacao Discovery" tvg-logo="http://i.imgur.com/1nFjk1t.png" group-title="Documentarios",ID - Investigacao Discovery
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/108.ts
+#EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-name="ID - Investigação Discovery #2" tvg-logo="http://i.imgur.com/1nFjk1t.png" group-title="Documentarios",ID - Investigação Discovery #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/107.ts
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization" tvg-logo="http://i.imgur.com/dN249KE.png" group-title="Documentarios",Discovery Civilization
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/122.ts
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization *2" tvg-logo="http://i.imgur.com/dN249KE.png" group-title="Documentarios",Discovery Civilization *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/121.ts
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="http://i.imgur.com/Dx49y4f.png" group-title="Documentarios",Discovery Science
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/120.ts
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science *2" tvg-logo="http://i.imgur.com/Dx49y4f.png" group-title="Documentarios",Discovery Science *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/119.ts
+#EXTINF:-1 tvg-id="History" tvg-name="History Channel HD" tvg-logo="http://s32.postimg.org/5qqqgpqzl/History_Channel_2.png" group-title="Documentarios",History Channel HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/112.ts
+#EXTINF:-1 tvg-id="History" tvg-name="The History Channel" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Documentarios",The History Channel
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/111.ts
+#EXTINF:-1 tvg-id="History" tvg-name="The History Channel #2" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Documentarios",The History Channel #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/110.ts
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 HD" tvg-logo="https://s32.postimg.org/hzun1s1md/history2.png" group-title="Documentarios",H2 HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/115.ts
+#EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-logo="http://i.imgur.com/jhiD9Wc.png" group-title="Documentarios",H2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/114.ts
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 *2" tvg-logo="http://i.imgur.com/jhiD9Wc.png" group-title="Documentarios",H2 *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/113.ts
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="National Geography HD" tvg-logo="https://s16.postimg.org/p7ce9i39x/natgeo.png" group-title="Documentarios",National Geography HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/103.ts
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="National Geographic" tvg-logo="https://s16.postimg.org/p7ce9i39x/natgeo.png" group-title="Documentarios",National Geographic
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/102.ts
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="National Geographic *2" tvg-logo="https://s16.postimg.org/p7ce9i39x/natgeo.png" group-title="Documentarios",National Geographic *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/101.ts
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeoWild HD" tvg-logo="http://i.imgur.com/MH5AxVt.png" group-title="Documentarios",NatGeoWild HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/106.ts
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="http://i.imgur.com/MH5AxVt.png" group-title="Documentarios",NatGeo Wild
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/105.ts
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild #2" tvg-logo="http://i.imgur.com/MH5AxVt.png" group-title="Documentarios",NatGeo Wild #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/104.ts
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet HD" tvg-logo="http://i.imgur.com/RyMlI0l.png" group-title="Documentarios",Animal Planet HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/116.ts
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://i.imgur.com/eY508Ps.png" group-title="Documentarios",Animal Planet
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/117.ts
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet *2" tvg-logo="http://i.imgur.com/eY508Ps.png" group-title="Documentarios",Animal Planet *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/118.ts
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1" tvg-logo="http://i.imgur.com/sbdMNef.png" group-title="Documentarios",Arte 1
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/134.ts
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-logo="http://i.imgur.com/RP0sbkV.png" group-title="Religiosos",TV Aparecida
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/30.ts
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida *2" tvg-logo="http://i.imgur.com/RP0sbkV.png" group-title="Religiosos",TV Aparecida *2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/29.ts
+#EXTINF:-1 tvg-id="" tvg-name="Boa Vontade TV" tvg-logo="https://2.bp.blogspot.com/-GLcevbDWPfY/Vr40ck-nVZI/AAAAAAAC5So/ys6aNO-bFNM/s1600/Convite%2BChapeuzinho%2BVermelho%2Bc%25C3%25B3pia.jpg" group-title="Religiosos",Boa Vontade TV
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/25.ts
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="Cancao Nova" tvg-logo="http://i.imgur.com/QXE03Gx.png" group-title="Religiosos",Cancao Nova
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/39.ts
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="Canção Nova #2" tvg-logo="http://i.imgur.com/QXE03Gx.png" group-title="Religiosos",Canção Nova #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/38.ts
+#EXTINF:-1 tvg-id="" tvg-name="DW (Amerika)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="Religiosos",DW (Amerika)
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/24.ts
+#EXTINF:-1 tvg-id="Ideal TV" tvg-name="Ideal TV" tvg-logo="http://i.imgur.com/MbQrqgu.png" group-title="Religiosos",Ideal TV
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/37.ts
+#EXTINF:-1 tvg-id="Ideal TV" tvg-name="Ideal TV #2" tvg-logo="http://i.imgur.com/MbQrqgu.png" group-title="Religiosos",Ideal TV #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/36.ts
+#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-name="TV Novo Tempo HD #2" tvg-logo="http://i.imgur.com/liOLnFU.png" group-title="Religiosos",TV Novo Tempo HD #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/28.ts
+#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-name="TV Novo Tempo" tvg-logo="http://i.imgur.com/liOLnFU.png" group-title="Religiosos",TV Novo Tempo
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/27.ts
+#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-name="TV Novo Tempo #2" tvg-logo="http://i.imgur.com/liOLnFU.png" group-title="Religiosos",TV Novo Tempo #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/26.ts
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-logo="http://i.imgur.com/ywEa7bZ.png" group-title="Religiosos",Rede Vida
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/34.ts
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida #2" tvg-logo="http://i.imgur.com/ywEa7bZ.png" group-title="Religiosos",Rede Vida #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/33.ts
+#EXTINF:-1 tvg-id="RIT" tvg-name="RIT" tvg-logo="http://i.imgur.com/mxBB8c4.png" group-title="Religiosos",RIT
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/32.ts
+#EXTINF:-1 tvg-id="RIT" tvg-name="RIT #2" tvg-logo="http://i.imgur.com/mxBB8c4.png" group-title="Religiosos",RIT #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/31.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: GLOBO" tvg-logo="http://s20.postimg.org/h9gvd2ufd/Globo_SP.png" group-title="Portugal",PT: GLOBO
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/520.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV GLOBO" tvg-logo="http://s20.postimg.org/h9gvd2ufd/Globo_SP.png" group-title="Portugal",PT: TV GLOBO
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/461.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV GLOBO PREMIUM" tvg-logo="http://www.playhdtv.pw/img/Globosp.png" group-title="Portugal",PT: TV GLOBO PREMIUM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/460.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV RECORD" tvg-logo="" group-title="Portugal",PT: TV RECORD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/459.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: MTV PORTUGAL" tvg-logo="" group-title="Portugal",PT: MTV PORTUGAL
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/511.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: MOV HD 1080" tvg-logo="" group-title="Portugal",PT: MOV HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/512.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: MOV HD" tvg-logo="" group-title="Portugal",PT: MOV HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/513.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: VH1 SHUFFLE HD" tvg-logo="" group-title="Portugal",PT: VH1 SHUFFLE HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/446.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: VH1 CLASSIC" tvg-logo="" group-title="Portugal",PT: VH1 CLASSIC
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/447.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY HD" tvg-logo="" group-title="Portugal",PT: TVI REALITY HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/448.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY" tvg-logo="" group-title="Portugal",PT: TVI REALITY
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/449.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX COMEDY" tvg-logo="http://www.playhdtv.pw/img/FOX-Comedy-HD.png" group-title="Portugal",PT: FOX COMEDY
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/531.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX COMEDY HD 1080" tvg-logo="http://www.playhdtv.pw/img/FOX-Comedy-HD.png" group-title="Portugal",PT: FOX COMEDY HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/530.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX CRIME HD" tvg-logo="" group-title="Portugal",PT: FOX CRIME HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/567.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX CRIME HD 1080" tvg-logo="http://www.playhdtv.pw/img/FOX-Comedy-HD.png" group-title="Portugal",PT: FOX CRIME HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/529.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX HD 1080" tvg-logo="https://s32.postimg.org/7y1thriph/Fox.png" group-title="Portugal",PT: FOX HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/528.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX LIFE HD" tvg-logo="http://www.playhdtv.pw/img/fox-life-hd.jpg" group-title="Portugal",PT: FOX LIFE HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/527.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX LIFE HD 1080" tvg-logo="http://www.playhdtv.pw/img/fox-life-hd.jpg" group-title="Portugal",PT: FOX LIFE HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/526.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX MOVIES" tvg-logo="http://www.playhdtv.pw/img/foxmove.png" group-title="Portugal",PT: FOX MOVIES
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/525.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX MOVIES HD 1080" tvg-logo="http://www.playhdtv.pw/img/foxmove.png" group-title="Portugal",PT: FOX MOVIES HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/524.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX TV HD" tvg-logo="" group-title="Portugal",PT: FOX TV HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/523.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN BLACK HD 1080" tvg-logo="http://www.playhdtv.pw/img/AXN_Black.png" group-title="Portugal",PT: AXN BLACK HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/561.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN HD" tvg-logo="https://s15.postimg.org/tzhnubsmz/axn.png" group-title="Portugal",PT: AXN HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/560.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN HD 1080" tvg-logo="https://s15.postimg.org/tzhnubsmz/axn.png" group-title="Portugal",PT: AXN HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/559.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN WHITE HD" tvg-logo="http://www.playhdtv.pw/img/AXN_White.png" group-title="Portugal",PT: AXN WHITE HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/558.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN WHITE HD 1080" tvg-logo="http://www.playhdtv.pw/img/AXN_White.png" group-title="Portugal",PT: AXN WHITE HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/557.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC HD 1080" tvg-logo="http://www.playhdtv.pw/img/AMC.png" group-title="Portugal",PT: AMC HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/562.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC" tvg-logo="http://www.playhdtv.pw/img/AMC.png" group-title="Portugal",PT: AMC
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/563.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 1 HD 1080" tvg-logo="http://www.playhdtv.pw/img/TVC1.png" group-title="Portugal",PT: TVCINE 1 HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/456.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 2 HD 1080" tvg-logo="http://www.playhdtv.pw/img/TVC2.png" group-title="Portugal",PT: TVCINE 2 HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/455.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 3 HD 1080" tvg-logo="http://www.playhdtv.pw/img/TVC3.png" group-title="Portugal",PT: TVCINE 3 HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/454.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 4 HD 1080" tvg-logo="http://www.playhdtv.pw/img/TVC4.png" group-title="Portugal",PT: TVCINE 4 HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/453.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVC" tvg-logo="" group-title="Portugal",PT: TVC
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/458.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVC SERIES" tvg-logo="" group-title="Portugal",PT: TVC SERIES
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/457.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI" tvg-logo="http://www.playhdtv.pw/img/TVI.png" group-title="Portugal",PT: TVI
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/452.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI 24" tvg-logo="" group-title="Portugal",PT: TVI 24
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/451.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI FICÇÃO" tvg-logo="" group-title="Portugal",PT: TVI FICÇÃO
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/450.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC HD" tvg-logo="" group-title="Portugal",PT: SIC HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/494.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1" tvg-logo="http://www.playhdtv.pw/img/rtp_.png" group-title="Portugal",PT: RTP 1
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/500.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2" tvg-logo="http://www.playhdtv.pw/img/rtp_.png" group-title="Portugal",PT: RTP 2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/499.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 3" tvg-logo="http://www.playhdtv.pw/img/rtp_.png" group-title="Portugal",PT: RTP 3
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/498.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP AÇORES" tvg-logo="" group-title="Portugal",PT: RTP AÇORES
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/497.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP ÁFRICA" tvg-logo="" group-title="Portugal",PT: RTP ÁFRICA
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/496.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP MEMÓRIA" tvg-logo="" group-title="Portugal",PT: RTP MEMÓRIA
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/495.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: PORTO CANAL" tvg-logo="" group-title="Portugal",PT: PORTO CANAL
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/501.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: OUTDOOR CHANNEL HD 1080" tvg-logo="" group-title="Portugal",PT: OUTDOOR CHANNEL HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/504.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ODISSEIA" tvg-logo="" group-title="Portugal",PT: ODISSEIA
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/505.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: NATIONAL GEOGRAPHIC HD 1080" tvg-logo="" group-title="Portugal",PT: NATIONAL GEOGRAPHIC HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/507.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="Portugal",PT: NATIONAL GEOGRAPHIC HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/508.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO WILD HD 1080" tvg-logo="http://www.playhdtv.pw/img/NatgeoWildhD.png" group-title="Portugal",PT: NAT GEO WILD HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/509.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO WILD" tvg-logo="http://www.playhdtv.pw/img/NatgeoWildhD.png" group-title="Portugal",PT: NAT GEO WILD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/510.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY SHOWCASE HD 1080" tvg-logo="http://www.playhdtv.pw/img/Discovery_HD_Showcase.png" group-title="Portugal",PT: DISCOVERY SHOWCASE HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/543.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY SHOWCASE HD" tvg-logo="http://www.playhdtv.pw/img/Discovery_HD_Showcase.png" group-title="Portugal",PT: DISCOVERY SHOWCASE HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/544.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY CHANNEL" tvg-logo="" group-title="Portugal",PT: DISCOVERY CHANNEL
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/545.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE 1  HD" tvg-logo="http://www.playhdtv.pw/img/TVC1.png" group-title="Portugal",PT: TV CINE 1  HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/465.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE 2  HD" tvg-logo="http://www.playhdtv.pw/img/TVC2.png" group-title="Portugal",PT: TV CINE 2  HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/464.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE 3 HD" tvg-logo="http://www.playhdtv.pw/img/TVC3.png" group-title="Portugal",PT: TV CINE 3 HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/463.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE 4 HD" tvg-logo="http://www.playhdtv.pw/img/TVC4.png" group-title="Portugal",PT: TV CINE 4 HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/462.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMUNDO" tvg-logo="http://www.playhdtv.pw/img/cinemundo.jpg" group-title="Portugal",PT: CINEMUNDO
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/546.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL HISTÓRIA" tvg-logo="https://espalhafactos.com/wp-content/uploads/2013/05/Canal-Hist%C3%B3ria.png" group-title="Portugal",PT: CANAL HISTÓRIA
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/552.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL PANDA" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/0/08/Canal_Panda_2015.png" group-title="Portugal",PT: CANAL PANDA
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/551.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL Q" tvg-logo="" group-title="Portugal",PT: CANAL Q
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/550.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TRAVEL CHANNEL HD 1080" tvg-logo="" group-title="Portugal",PT: TRAVEL CHANNEL HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/466.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2 XTRA HD 1080" tvg-logo="" group-title="Portugal",PT: EUROSPORT 2 XTRA HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/537.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TLC" tvg-logo="" group-title="Portugal",PT: TLC
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/468.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY HD 1080" tvg-logo="" group-title="Portugal",PT: SYFY HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/469.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY" tvg-logo="" group-title="Portugal",PT: SYFY
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/470.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SUNDANCE HD 1080" tvg-logo="" group-title="Portugal",PT: SUNDANCE HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/471.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FINE LIVING NETWORK HD 1080" tvg-logo="" group-title="Portugal",PT: FINE LIVING NETWORK HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/532.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: NICKELODEON HD" tvg-logo="" group-title="Portugal",PT: NICKELODEON HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/506.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: BABY TV" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png/revision/latest?cb=20111201223043" group-title="Portugal",PT: BABY TV
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/556.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CARTOON  NETWORK" tvg-logo="" group-title="Portugal",PT: CARTOON  NETWORK
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/549.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: JIM JAM" tvg-logo="" group-title="Portugal",PT: JIM JAM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/517.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY CHANNEL" tvg-logo="https://s19.postimg.org/z1kegzr43/DISNEYCHANNEL.png" group-title="Portugal",PT: DISNEY CHANNEL
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/542.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY JUNIOR" tvg-logo="" group-title="Portugal",PT: DISNEY JUNIOR
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/541.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FASHION TV HD 1080" tvg-logo="" group-title="Portugal",PT: FASHION TV HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/534.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: E! ENTERTAINMENT" tvg-logo="" group-title="Portugal",PT: E! ENTERTAINMENT
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/540.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: HOLLYWOOD HD 1080" tvg-logo="http://www.playhdtv.pw/img/hollywood.png" group-title="Portugal",PT: HOLLYWOOD HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/518.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: HOLLYWOOD" tvg-logo="http://www.playhdtv.pw/img/hollywood.png" group-title="Portugal",PT: HOLLYWOOD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/519.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: MOTORS TV" tvg-logo="" group-title="Portugal",PT: MOTORS TV
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/516.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: MOTORVISION" tvg-logo="" group-title="Portugal",PT: MOTORVISION
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/515.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: MOTORVISION TV" tvg-logo="" group-title="Portugal",PT: MOTORVISION TV
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/514.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTING TV HD 1080" tvg-logo="" group-title="Portugal",PT: SPORTING TV HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/472.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTING TV" tvg-logo="" group-title="Portugal",PT: SPORTING TV
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/473.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV" tvg-logo="http://www.playhdtv.pw/img/sport.tv_.plus.jpg" group-title="Portugal",PT: SPORT TV
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/488.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV  HD 1080" tvg-logo="http://www.playhdtv.pw/img/sport.tv_.plus.jpg" group-title="Portugal",PT: SPORT TV  HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/486.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="http://www.playhdtv.pw/img/SPORTVPT1.png" group-title="Portugal",PT: SPORT TV 1 HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/485.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD 1080" tvg-logo="http://www.playhdtv.pw/img/SPORTVPT1.png" group-title="Portugal",PT: SPORT TV 1 HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/484.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="http://www.playhdtv.pw/img/SPORTVPT2.png" group-title="Portugal",PT: SPORT TV 2 HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/483.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD 1080" tvg-logo="http://www.playhdtv.pw/img/SPORTVPT2.png" group-title="Portugal",PT: SPORT TV 2 HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/482.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="http://www.playhdtv.pw/img/SPORTVPT3.png" group-title="Portugal",PT: SPORT TV 3 HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/481.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD 1080" tvg-logo="http://www.playhdtv.pw/img/SPORTVPT3.png" group-title="Portugal",PT: SPORT TV 3 HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/480.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 HD" tvg-logo="http://www.playhdtv.pw/img/SPORTVPT4.png" group-title="Portugal",PT: SPORT TV 4 HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/478.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 HD 1080" tvg-logo="http://www.playhdtv.pw/img/SPORTVPT4.png" group-title="Portugal",PT: SPORT TV 4 HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/477.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 HD" tvg-logo="http://www.playhdtv.pw/img/SPORTVPT5.png" group-title="Portugal",PT: SPORT TV 5 HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/475.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 HD 1080" tvg-logo="http://www.playhdtv.pw/img/SPORTVPT5.png" group-title="Portugal",PT: SPORT TV 5 HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/474.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1" tvg-logo="" group-title="Portugal",PT: EUROSPORT 1
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/539.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1 HD 1080" tvg-logo="" group-title="Portugal",PT: EUROSPORT 1 HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/538.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT HD" tvg-logo="" group-title="Portugal",PT: EUROSPORT HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/536.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT NEW" tvg-logo="" group-title="Portugal",PT: EUROSPORT NEW
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/535.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV 1 HD 1080" tvg-logo="http://www.playhdtv.pw/img/BenficaTV.png" group-title="Portugal",PT: BENFICA TV 1 HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/554.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV 1 HD" tvg-logo="http://www.playhdtv.pw/img/BenficaTV.png" group-title="Portugal",PT: BENFICA TV 1 HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/555.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: A BOLA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png" group-title="Portugal",PT: A BOLA TV
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/564.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: PFC" tvg-logo="" group-title="Portugal",PT: PFC
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/502.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FIGHT NETWORK HD 1080" tvg-logo="" group-title="Portugal",PT: FIGHT NETWORK HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/533.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FUEL TV HD 1080" tvg-logo="" group-title="Portugal",PT: FUEL TV HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/521.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FUEL TV" tvg-logo="" group-title="Portugal",PT: FUEL TV
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/522.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CHELSEA TV" tvg-logo="" group-title="Portugal",PT: CHELSEA TV
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/547.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: A & E" tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="Portugal",PT: A & E
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/565.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CAÇA & PESCA" tvg-logo="http://portalnacional.com.pt/images/icons/tv/CACAP.png" group-title="Portugal",PT: CAÇA & PESCA
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/553.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CBS REALITY" tvg-logo="" group-title="Portugal",PT: CBS REALITY
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/548.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: HISTÓRIA" tvg-logo="" group-title="Portugal",PT: HISTÓRIA
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/566.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: PANDA BIGGS" tvg-logo="" group-title="Portugal",PT: PANDA BIGGS
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/503.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC MULHER" tvg-logo="" group-title="Portugal",PT: SIC MULHER
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/493.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC NOTICIAS" tvg-logo="" group-title="Portugal",PT: SIC NOTICIAS
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/492.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC NOTICIAS HD 1080" tvg-logo="" group-title="Portugal",PT: SIC NOTICIAS HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/491.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC RADICAL" tvg-logo="" group-title="Portugal",PT: SIC RADICAL
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/490.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC RADICAL HD 1080" tvg-logo="" group-title="Portugal",PT: SIC RADICAL HD 1080
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/489.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TOUROS TV" tvg-logo="" group-title="Portugal",PT: TOUROS TV
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/467.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:  WWE HD" tvg-logo="" group-title="USA",USA:  WWE HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/970.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: A&E" tvg-logo="" group-title="USA",USA: A&E
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/984.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC HD" tvg-logo="" group-title="USA",USA: ABC HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/969.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: AFN MOVIE" tvg-logo="" group-title="USA",USA: AFN MOVIE
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/967.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: AFN NEWS" tvg-logo="" group-title="USA",USA: AFN NEWS
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/966.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: AFN PRIME ATLANTIC" tvg-logo="" group-title="USA",USA: AFN PRIME ATLANTIC
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/965.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: AFN SPORTS HD" tvg-logo="" group-title="USA",USA: AFN SPORTS HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/959.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: AMC HD OFF" tvg-logo="" group-title="USA",USA: AMC HD OFF
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/958.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: AMERICAN HEROES CHANNEL" tvg-logo="" group-title="USA",USA: AMERICAN HEROES CHANNEL
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/957.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ANIMAL PLANET HD" tvg-logo="" group-title="USA",USA: ANIMAL PLANET HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/956.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: BEIN SPORTS HD" tvg-logo="" group-title="USA",USA: BEIN SPORTS HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/955.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: BLOOMBERG TV HD" tvg-logo="" group-title="USA",USA: BLOOMBERG TV HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/953.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: BNN HD" tvg-logo="" group-title="USA",USA: BNN HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/952.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: BOOMERANG" tvg-logo="" group-title="USA",USA: BOOMERANG
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/951.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: BRAVO HD" tvg-logo="" group-title="USA",USA: BRAVO HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/950.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: C-SPAN 1" tvg-logo="" group-title="USA",USA: C-SPAN 1
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/947.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: C-SPAN 2" tvg-logo="" group-title="USA",USA: C-SPAN 2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/946.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: C-SPAN 3" tvg-logo="" group-title="USA",USA: C-SPAN 3
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/945.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CA | TSN 1" tvg-logo="" group-title="USA",USA: CA | TSN 1
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/944.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CA | TSN 2" tvg-logo="" group-title="USA",USA: CA | TSN 2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/943.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CAPITAL TV HD" tvg-logo="" group-title="USA",USA: CAPITAL TV HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/939.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CARTOON NETWORK HD" tvg-logo="" group-title="USA",USA: CARTOON NETWORK HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/938.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS" tvg-logo="" group-title="USA",USA: CBS
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/937.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS SPORTS NETWORK HD" tvg-logo="" group-title="USA",USA: CBS SPORTS NETWORK HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/936.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBSN HD OFF" tvg-logo="" group-title="USA",USA: CBSN HD OFF
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/935.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Church Channel" tvg-logo="" group-title="USA",USA: Church Channel
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/934.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CINEMAX ACTION HD" tvg-logo="" group-title="USA",USA: CINEMAX ACTION HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/933.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CINEMAX ACTION MAX EAST" tvg-logo="" group-title="USA",USA: CINEMAX ACTION MAX EAST
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/932.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CINEMAX EAST HD" tvg-logo="" group-title="USA",USA: CINEMAX EAST HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/931.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CINEMAX MORE MAX HD" tvg-logo="" group-title="USA",USA: CINEMAX MORE MAX HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/930.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CNBC HD" tvg-logo="" group-title="USA",USA: CNBC HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/929.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CNN" tvg-logo="" group-title="USA",USA: CNN
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/928.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CNN HD" tvg-logo="" group-title="USA",USA: CNN HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/927.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: COMEDY CENTRAL HD" tvg-logo="" group-title="USA",USA: COMEDY CENTRAL HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/925.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CW HD" tvg-logo="" group-title="USA",USA: CW HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/924.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CW11" tvg-logo="" group-title="USA",USA: CW11
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/923.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: DISCCOVERY HD" tvg-logo="" group-title="USA",USA: DISCCOVERY HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/922.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: DISCOVERY CHANNEL HD" tvg-logo="" group-title="USA",USA: DISCOVERY CHANNEL HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/921.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: DISCOVERY SCIENCE" tvg-logo="" group-title="USA",USA: DISCOVERY SCIENCE
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/920.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: DISCOVERY SHOWCASE HD" tvg-logo="" group-title="USA",USA: DISCOVERY SHOWCASE HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/919.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: DIY NETWORK HD" tvg-logo="" group-title="USA",USA: DIY NETWORK HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/918.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: DW OFF" tvg-logo="" group-title="USA",USA: DW OFF
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/917.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: E! HD" tvg-logo="" group-title="USA",USA: E! HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/916.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN 2 HD" tvg-logo="" group-title="USA",USA: ESPN 2 HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/915.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN HD" tvg-logo="" group-title="USA",USA: ESPN HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/982.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN NEWS US HD" tvg-logo="" group-title="USA",USA: ESPN NEWS US HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/914.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FC" tvg-logo="" group-title="USA",USA: FC
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/913.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FIGHT SPORT" tvg-logo="" group-title="USA",USA: FIGHT SPORT
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/912.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FIGHT SPORTS HD" tvg-logo="" group-title="USA",USA: FIGHT SPORTS HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/911.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FINE LIVING" tvg-logo="" group-title="USA",USA: FINE LIVING
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/910.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOOD NETWORK HD" tvg-logo="" group-title="USA",USA: FOOD NETWORK HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/908.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX 43 HD" tvg-logo="" group-title="USA",USA: FOX 43 HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/907.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX HD OFF" tvg-logo="" group-title="USA",USA: FOX HD OFF
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/906.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX MOTOSPORT HD" tvg-logo="" group-title="USA",USA: FOX MOTOSPORT HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/905.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX NEWS HD" tvg-logo="" group-title="USA",USA: FOX NEWS HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/904.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX SPORTS 1 HD" tvg-logo="" group-title="USA",USA: FOX SPORTS 1 HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/981.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX SPORTS 2 HD" tvg-logo="" group-title="USA",USA: FOX SPORTS 2 HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/980.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FUEL HD" tvg-logo="" group-title="USA",USA: FUEL HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/902.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FX HD" tvg-logo="" group-title="USA",USA: FX HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/901.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FXX" tvg-logo="" group-title="USA",USA: FXX
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/900.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: H2" tvg-logo="" group-title="USA",USA: H2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/897.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HBO COMEDY OFF" tvg-logo="" group-title="USA",USA: HBO COMEDY OFF
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/895.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HBO EAST OFF" tvg-logo="" group-title="USA",USA: HBO EAST OFF
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/894.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HBO HD" tvg-logo="" group-title="USA",USA: HBO HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/893.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HBO SIGNATURE OFF" tvg-logo="" group-title="USA",USA: HBO SIGNATURE OFF
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/892.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HGTV HD" tvg-logo="" group-title="USA",USA: HGTV HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/890.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HIFI HD" tvg-logo="" group-title="USA",USA: HIFI HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/889.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HISTORY HD" tvg-logo="" group-title="USA",USA: HISTORY HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/888.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HSN YT LIVE 1080P HD" tvg-logo="" group-title="USA",USA: HSN YT LIVE 1080P HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/887.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: INVESTIGATION DISCOVERY HD" tvg-logo="" group-title="USA",USA: INVESTIGATION DISCOVERY HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/886.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: MBL HD" tvg-logo="" group-title="USA",USA: MBL HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/883.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: MLB EXTRA INNINGS 1 HD" tvg-logo="" group-title="USA",USA: MLB EXTRA INNINGS 1 HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/881.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: MLB EXTRA INNINGS 2 HD" tvg-logo="" group-title="USA",USA: MLB EXTRA INNINGS 2 HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/880.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: MLB NETWORK HD" tvg-logo="" group-title="USA",USA: MLB NETWORK HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/879.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: MSNBC HD" tvg-logo="" group-title="USA",USA: MSNBC HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/877.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: MTV ROCKS" tvg-logo="" group-title="USA",USA: MTV ROCKS
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/876.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NATIONAL GEOGRAPHIC" tvg-logo="" group-title="USA",USA: NATIONAL GEOGRAPHIC
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/873.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBA TV HD" tvg-logo="" group-title="USA",USA: NBA TV HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/872.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC" tvg-logo="" group-title="USA",USA: NBC
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/871.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC GOLF HD" tvg-logo="" group-title="USA",USA: NBC GOLF HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/870.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBCSN HD" tvg-logo="" group-title="USA",USA: NBCSN HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/979.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NET GEO WILD HD" tvg-logo="" group-title="USA",USA: NET GEO WILD HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/869.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NETWORK (US)" tvg-logo="" group-title="USA",USA: NETWORK (US)
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/868.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL NETWORK 1 HD" tvg-logo="" group-title="USA",USA: NFL NETWORK 1 HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/867.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL NETWORK 1080I" tvg-logo="" group-title="USA",USA: NFL NETWORK 1080I
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/866.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL NETWORK HD" tvg-logo="" group-title="USA",USA: NFL NETWORK HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/978.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NHL NETWORK" tvg-logo="" group-title="USA",USA: NHL NETWORK
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/865.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NICKELODEN HD" tvg-logo="" group-title="USA",USA: NICKELODEN HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/864.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NICKELODEON" tvg-logo="" group-title="USA",USA: NICKELODEON
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/863.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: OWN HD" tvg-logo="" group-title="USA",USA: OWN HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/859.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: P.B.S KIDS HD" tvg-logo="" group-title="USA",USA: P.B.S KIDS HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/857.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: PAC-12 ARIZONA HD" tvg-logo="" group-title="USA",USA: PAC-12 ARIZONA HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/977.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: PAC-12 WASHINGTON HD" tvg-logo="" group-title="USA",USA: PAC-12 WASHINGTON HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/973.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Poker Central" tvg-logo="" group-title="USA",USA: Poker Central
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/972.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: SHOWTIME 2 OFF" tvg-logo="" group-title="USA",USA: SHOWTIME 2 OFF
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/856.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: SHOWTIME HD OFF" tvg-logo="" group-title="USA",USA: SHOWTIME HD OFF
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/855.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: STARZ EAST" tvg-logo="" group-title="USA",USA: STARZ EAST
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/853.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: STARZ EDGE HD" tvg-logo="" group-title="USA",USA: STARZ EDGE HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/852.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: SYFY" tvg-logo="" group-title="USA",USA: SYFY
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/851.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TBS HD" tvg-logo="" group-title="USA",USA: TBS HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/850.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TENNIS CHANNEL HD" tvg-logo="" group-title="USA",USA: TENNIS CHANNEL HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/849.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TLC HD" tvg-logo="" group-title="USA",USA: TLC HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/971.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TNT" tvg-logo="" group-title="USA",USA: TNT
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/847.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: UFC FIGHT PASS" tvg-logo="" group-title="USA",USA: UFC FIGHT PASS
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/846.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: VH1 CLASSIC" tvg-logo="" group-title="USA",USA: VH1 CLASSIC
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/845.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: WEATHERNATION" tvg-logo="" group-title="USA",USA: WEATHERNATION
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/843.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: WWE HD BACKUP" tvg-logo="" group-title="USA",USA: WWE HD BACKUP
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/842.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: A&E HD" tvg-logo="" group-title="Latinos",LT: A&E HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1115.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: AMC" tvg-logo="" group-title="Latinos",LT: AMC
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1114.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: ANIMAL PLANET" tvg-logo="" group-title="Latinos",LT: ANIMAL PLANET
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1113.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: AXN HD" tvg-logo="" group-title="Latinos",LT: AXN HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1112.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: AYM SPORT" tvg-logo="" group-title="Latinos",LT: AYM SPORT
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1111.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: AZ CLICK HD" tvg-logo="" group-title="Latinos",LT: AZ CLICK HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1110.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: AZTECA 13" tvg-logo="" group-title="Latinos",LT: AZTECA 13
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1109.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: AZTECA 7" tvg-logo="" group-title="Latinos",LT: AZTECA 7
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1108.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: AZTECA CINEMA" tvg-logo="" group-title="Latinos",LT: AZTECA CINEMA
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1107.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: AZTECA MUNDO" tvg-logo="" group-title="Latinos",LT: AZTECA MUNDO
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1106.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: AZTECA NOTICIAS" tvg-logo="" group-title="Latinos",LT: AZTECA NOTICIAS
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1105.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: BOOMERANG" tvg-logo="" group-title="Latinos",LT: BOOMERANG
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1103.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: CANAL 11" tvg-logo="" group-title="Latinos",LT: CANAL 11
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1102.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: CANAL 5 HD" tvg-logo="" group-title="Latinos",LT: CANAL 5 HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1101.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: CANAL DE LAS ESTRELLAS HD" tvg-logo="" group-title="Latinos",LT: CANAL DE LAS ESTRELLAS HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1100.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: CARACOL" tvg-logo="" group-title="Latinos",LT: CARACOL
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1099.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: CARTON NETWORK HD" tvg-logo="" group-title="Latinos",LT: CARTON NETWORK HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1098.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: CARTOON NETWORK" tvg-logo="" group-title="Latinos",LT: CARTOON NETWORK
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1097.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: CINECANAL" tvg-logo="" group-title="Latinos",LT: CINECANAL
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1095.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: CINECANAL HD" tvg-logo="" group-title="Latinos",LT: CINECANAL HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1094.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: CINELATINO" tvg-logo="" group-title="Latinos",LT: CINELATINO
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1093.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: CINEMAX" tvg-logo="" group-title="Latinos",LT: CINEMAX
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1092.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: CLARO SPORTS" tvg-logo="" group-title="Latinos",LT: CLARO SPORTS
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1091.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: CNN EN ESPAGNOL" tvg-logo="" group-title="Latinos",LT: CNN EN ESPAGNOL
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1090.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: COMEDY CENTRAL HD" tvg-logo="" group-title="Latinos",LT: COMEDY CENTRAL HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1089.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: DE PELICULA HD" tvg-logo="" group-title="Latinos",LT: DE PELICULA HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1088.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: DISCOVERY  HOME & HEALTH" tvg-logo="" group-title="Latinos",LT: DISCOVERY  HOME & HEALTH
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1087.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: DISCOVERY CHANNEL" tvg-logo="" group-title="Latinos",LT: DISCOVERY CHANNEL
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1086.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: DISCOVERY CIVILIZATION" tvg-logo="" group-title="Latinos",LT: DISCOVERY CIVILIZATION
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1085.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: DISCOVERY ID" tvg-logo="" group-title="Latinos",LT: DISCOVERY ID
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1084.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: DISCOVERY KIDS" tvg-logo="" group-title="Latinos",LT: DISCOVERY KIDS
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1083.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: DISCOVERY SCIENCE." tvg-logo="" group-title="Latinos",LT: DISCOVERY SCIENCE.
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1082.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: DISCOVERY TEATHER HD" tvg-logo="" group-title="Latinos",LT: DISCOVERY TEATHER HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1081.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: DISCOVERY TLC" tvg-logo="" group-title="Latinos",LT: DISCOVERY TLC
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1080.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: DISCOVERY TURBO" tvg-logo="" group-title="Latinos",LT: DISCOVERY TURBO
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1079.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: DISCOVERY WORLD" tvg-logo="" group-title="Latinos",LT: DISCOVERY WORLD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1078.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: DISNEY CHANNEL" tvg-logo="https://s19.postimg.org/z1kegzr43/DISNEYCHANNEL.png" group-title="Latinos",LT: DISNEY CHANNEL
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1077.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: DISNEY JUNIOR" tvg-logo="" group-title="Latinos",LT: DISNEY JUNIOR
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1076.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: DISNEY XD" tvg-logo="" group-title="Latinos",LT: DISNEY XD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1075.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: DISTRITO COMEDIA" tvg-logo="" group-title="Latinos",LT: DISTRITO COMEDIA
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1074.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: E!" tvg-logo="" group-title="Latinos",LT: E!
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1072.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: ESPN" tvg-logo="" group-title="Latinos",LT: ESPN
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1069.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: ESPN 2" tvg-logo="" group-title="Latinos",LT: ESPN 2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1068.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: ESPN 3" tvg-logo="" group-title="Latinos",LT: ESPN 3
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1067.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: FILM & ARTS" tvg-logo="" group-title="Latinos",LT: FILM & ARTS
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1064.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: FILM ZONE" tvg-logo="" group-title="Latinos",LT: FILM ZONE
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1063.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: FOX 1 HD" tvg-logo="" group-title="Latinos",LT: FOX 1 HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1061.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: FOX ACTION HD" tvg-logo="" group-title="Latinos",LT: FOX ACTION HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1060.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: FOX CINEMA HD" tvg-logo="" group-title="Latinos",LT: FOX CINEMA HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1059.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: FOX CLASSIC" tvg-logo="" group-title="Latinos",LT: FOX CLASSIC
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1058.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: FOX HD" tvg-logo="" group-title="Latinos",LT: FOX HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1057.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: FOX LIFE" tvg-logo="" group-title="Latinos",LT: FOX LIFE
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1056.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: FOX MOVIES HD" tvg-logo="" group-title="Latinos",LT: FOX MOVIES HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1055.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: FOX SPORT 3" tvg-logo="" group-title="Latinos",LT: FOX SPORT 3
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1054.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: FOX SPORTS" tvg-logo="" group-title="Latinos",LT: FOX SPORTS
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1053.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: FOX SPORTS 2 HD" tvg-logo="" group-title="Latinos",LT: FOX SPORTS 2 HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1052.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: FX" tvg-logo="" group-title="Latinos",LT: FX
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1051.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: GALA TV HD" tvg-logo="" group-title="Latinos",LT: GALA TV HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1050.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: HBO" tvg-logo="" group-title="Latinos",LT: HBO
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1044.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: HBO 2" tvg-logo="" group-title="Latinos",LT: HBO 2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1043.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: HBO SIGNATURE" tvg-logo="" group-title="Latinos",LT: HBO SIGNATURE
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1042.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: HISTORY HD" tvg-logo="" group-title="Latinos",LT: HISTORY HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1041.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: HOLA TV" tvg-logo="" group-title="Latinos",LT: HOLA TV
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1039.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: MAX UP" tvg-logo="" group-title="Latinos",LT: MAX UP
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1035.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: MI MUSICA HD" tvg-logo="" group-title="Latinos",LT: MI MUSICA HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1033.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: MILENIO TV HD" tvg-logo="" group-title="Latinos",LT: MILENIO TV HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1032.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: MTV LATINO" tvg-logo="" group-title="Latinos",LT: MTV LATINO
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1031.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: MTV LATINO HITS" tvg-logo="" group-title="Latinos",LT: MTV LATINO HITS
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1030.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: MTV LIVE" tvg-logo="" group-title="Latinos",LT: MTV LIVE
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1029.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: MULTIMEDIOS MONTERREY HD" tvg-logo="" group-title="Latinos",LT: MULTIMEDIOS MONTERREY HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1028.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: MULTIMEDIOS Plus" tvg-logo="" group-title="Latinos",LT: MULTIMEDIOS Plus
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1027.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: MUSICA SI" tvg-logo="" group-title="Latinos",LT: MUSICA SI
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1026.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: NATGEO WILD HD" tvg-logo="" group-title="Latinos",LT: NATGEO WILD HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1025.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: NATIONAL GEOGRAPHIC" tvg-logo="" group-title="Latinos",LT: NATIONAL GEOGRAPHIC
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1024.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: NICK Jr" tvg-logo="" group-title="Latinos",LT: NICK Jr
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1023.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: NICK TOONS" tvg-logo="" group-title="Latinos",LT: NICK TOONS
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1022.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: NICKELODEON" tvg-logo="" group-title="Latinos",LT: NICKELODEON
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1021.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: NTN 24" tvg-logo="" group-title="Latinos",LT: NTN 24
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1020.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: ONCE Noticias" tvg-logo="" group-title="Latinos",LT: ONCE Noticias
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1019.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: PROYECTO 40" tvg-logo="" group-title="Latinos",LT: PROYECTO 40
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1018.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: PX" tvg-logo="" group-title="Latinos",LT: PX
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1017.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: SONY" tvg-logo="" group-title="Latinos",LT: SONY
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1016.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: SPACE HD" tvg-logo="" group-title="Latinos",LT: SPACE HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1015.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: STUDIO UNIVERSAL" tvg-logo="" group-title="Latinos",LT: STUDIO UNIVERSAL
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1014.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: SYFY" tvg-logo="" group-title="Latinos",LT: SYFY
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1013.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: TBS VERYFUNNY" tvg-logo="" group-title="Latinos",LT: TBS VERYFUNNY
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1012.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: TCM" tvg-logo="" group-title="Latinos",LT: TCM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1011.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: TDN HD" tvg-logo="" group-title="Latinos",LT: TDN HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1010.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: TELE MUSICA" tvg-logo="" group-title="Latinos",LT: TELE MUSICA
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1009.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: TELEHIT" tvg-logo="" group-title="Latinos",LT: TELEHIT
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1008.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: TELEMUNDO" tvg-logo="" group-title="Latinos",LT: TELEMUNDO
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1007.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: TELEMUNDO INT" tvg-logo="" group-title="Latinos",LT: TELEMUNDO INT
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1006.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: TELEMUNDO PUERTO RICO" tvg-logo="" group-title="Latinos",LT: TELEMUNDO PUERTO RICO
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1005.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: TELEVISA HD" tvg-logo="" group-title="Latinos",LT: TELEVISA HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1004.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: TIIN" tvg-logo="" group-title="Latinos",LT: TIIN
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1003.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: TLC" tvg-logo="" group-title="Latinos",LT: TLC
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1002.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: TNT" tvg-logo="" group-title="Latinos",LT: TNT
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1001.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: TNT SERIES HD" tvg-logo="" group-title="Latinos",LT: TNT SERIES HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1000.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: TOONCAST" tvg-logo="" group-title="Latinos",LT: TOONCAST
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/999.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: TRENDY CHANNEL" tvg-logo="" group-title="Latinos",LT: TRENDY CHANNEL
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/998.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: TRU TV HD" tvg-logo="" group-title="Latinos",LT: TRU TV HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/997.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: TV MARTI" tvg-logo="" group-title="Latinos",LT: TV MARTI
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/996.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: TVE" tvg-logo="" group-title="Latinos",LT: TVE
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/995.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: UFC Network HD" tvg-logo="" group-title="Latinos",LT: UFC Network HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/994.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: UNICABLE HD" tvg-logo="" group-title="Latinos",LT: UNICABLE HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/993.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: UNIMAS HD" tvg-logo="" group-title="Latinos",LT: UNIMAS HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/992.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: UNIVERSAL HD" tvg-logo="" group-title="Latinos",LT: UNIVERSAL HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/991.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: UNIVISION HD" tvg-logo="" group-title="Latinos",LT: UNIVISION HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/990.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: UNIVISION TDN HD" tvg-logo="" group-title="Latinos",LT: UNIVISION TDN HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/989.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: URUGUAY - VTV HD (720p)" tvg-logo="" group-title="Latinos",LT: URUGUAY - VTV HD (720p)
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/988.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: WAPA" tvg-logo="" group-title="Latinos",LT: WAPA
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/987.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: WARNER HD" tvg-logo="" group-title="Latinos",LT: WARNER HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/986.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT: WIN SPORT HD" tvg-logo="" group-title="Latinos",LT: WIN SPORT HD
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/985.ts
+#EXTINF:-1 tvg-id="PlayboyTV" tvg-name="Playboy TV" tvg-logo="http://i.imgur.com/f0APgjy.png" group-title="Adultos",Playboy TV
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/365.ts
+#EXTINF:-1 tvg-id="PlayboyTV" tvg-name="Playboy TV #2" tvg-logo="http://i.imgur.com/f0APgjy.png" group-title="Adultos",Playboy TV #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/366.ts
+#EXTINF:-1 tvg-id="Sextreme" tvg-name="Sextreme" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png" group-title="Adultos",Sextreme
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/364.ts
+#EXTINF:-1 tvg-id="Sextreme" tvg-name="Sextreme #2" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png" group-title="Adultos",Sextreme #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/363.ts
+#EXTINF:-1 tvg-id="SexyHot" tvg-name="Sexy Hot" tvg-logo="https://s19.postimg.org/f248w20ar/SEXYHOT.png" group-title="Adultos",Sexy Hot
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/362.ts
+#EXTINF:-1 tvg-id="SexyHot" tvg-name="Sexy Hot #2" tvg-logo="https://s19.postimg.org/f248w20ar/SEXYHOT.png" group-title="Adultos",Sexy Hot #2
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/361.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Tarde FM" tvg-logo="http://thumbs.dreamstime.com/x/transmisso-da-msica-do-rdio-do-painel-do-tempo-da-movimentao-do-fm-6930068.jpg" group-title="Radios",A Tarde FM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1163.ts
+#EXTINF:-1 tvg-id="" tvg-name="Alvorada FM" tvg-logo="http://static-media.streema.com/media/object-images/39d1b35d5cf1ca94c7f6864a899f597e.jpg" group-title="Radios",Alvorada FM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1164.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band FM" tvg-logo="http://www.bastidoresdatv.com.br/wp-content/uploads/2016/07/band-fm.jpg" group-title="Radios",Band FM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1165.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band FM Floripa" tvg-logo="http://www.bastidoresdatv.com.br/wp-content/uploads/2016/07/band-fm.jpg" group-title="Radios",Band FM Floripa
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1168.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band News FM" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/5/51/BandNews_FM_logo.png" group-title="Radios",Band News FM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1169.ts
+#EXTINF:-1 tvg-id="" tvg-name="Caxias FM" tvg-logo="http://institutoamostra.com.br/wp-content/uploads/2015/09/radio-caxias-logo.jpg" group-title="Radios",Caxias FM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1225.ts
+#EXTINF:-1 tvg-id="" tvg-name="CBN" tvg-logo="http://www.infocototal.jornalfolhadoestado.com/fotos/p/322-2.jpg" group-title="Radios",CBN
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1224.ts
+#EXTINF:-1 tvg-id="" tvg-name="CBN Recife" tvg-logo="http://www.infocototal.jornalfolhadoestado.com/fotos/p/322-2.jpg" group-title="Radios",CBN Recife
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1223.ts
+#EXTINF:-1 tvg-id="" tvg-name="CBN Salvador" tvg-logo="http://www.infocototal.jornalfolhadoestado.com/fotos/p/322-2.jpg" group-title="Radios",CBN Salvador
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1222.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cidade FM" tvg-logo="http://cidade.iol.pt/images/logo-cidade-dark.png" group-title="Radios",Cidade FM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1221.ts
+#EXTINF:-1 tvg-id="" tvg-name="Clube FM" tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/Clube-FM-Brasilia.jpg" group-title="Radios",Clube FM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1220.ts
+#EXTINF:-1 tvg-id="" tvg-name="Clube Fm Curitiba" tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/Clube-FM-Brasilia.jpg" group-title="Radios",Clube Fm Curitiba
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1219.ts
+#EXTINF:-1 tvg-id="" tvg-name="Coca Cola FM" tvg-logo="http://yt3.ggpht.com/-YMXukyfetvQ/AAAAAAAAAAI/AAAAAAAAAAA/m7BxGwsbZVY/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Radios",Coca Cola FM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1218.ts
+#EXTINF:-1 tvg-id="" tvg-name="Difusora AM" tvg-logo="http://1.bp.blogspot.com/-y55Yy79im64/VugfMBilOwI/AAAAAAAAAYA/OBMAK35YrY8LHpLZmLLqRrow-30xUG-Uw/s640/12804832_676836695787428_3404913671821036953_n.jpg" group-title="Radios",Difusora AM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1217.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discoteca" tvg-logo="http://guides.gamepressure.com/gtav/gfx/word/4gs3sf2123iu.jpg" group-title="Radios",Discoteca
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1216.ts
+#EXTINF:-1 tvg-id="" tvg-name="Energia FM" tvg-logo="http://rafaelarinelli.wordpress.com/files/2009/12/energia-fm.jpg" group-title="Radios",Energia FM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1215.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gazeta" tvg-logo="http://www.oam.com.br/institucional/wp-content/uploads/2012/11/logo-gazeta-fm-maceio.jpg" group-title="Radios",Gazeta
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1214.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gazeta AM" tvg-logo="http://pbs.twimg.com/profile_images/378800000021686494/21e62dbc5d62e3b677a10e03112ace47_400x400.jpeg" group-title="Radios",Gazeta AM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1213.ts
+#EXTINF:-1 tvg-id="" tvg-name="Guaruja FM" tvg-logo="http://pbs.twimg.com/profile_images/1290492383/guarujafm.jpg" group-title="Radios",Guaruja FM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1212.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hunter FM Electronic" tvg-logo="http://hunter.fm/electronic/img/hunterfm_logoelectronic2016.png" group-title="Radios",Hunter FM Electronic
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1211.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hunter FM Sertanejo" tvg-logo="http://hunter.fm/sertanejo/img/hunterfm_logocountry2016.png" group-title="Radios",Hunter FM Sertanejo
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1210.ts
+#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan Campinas" tvg-logo="http://www.ismaelcarvalho.com.br/wp-content/uploads/2013/09/logomarca_-_jovempan_am__fundo_branco_.jpg" group-title="Radios",Jovem Pan Campinas
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1208.ts
+#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan Fortaleza" tvg-logo="http://www.ismaelcarvalho.com.br/wp-content/uploads/2013/09/logomarca_-_jovempan_am__fundo_branco_.jpg" group-title="Radios",Jovem Pan Fortaleza
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1206.ts
+#EXTINF:-1 tvg-id="" tvg-name="Joven Pan AM" tvg-logo="http://www.ismaelcarvalho.com.br/wp-content/uploads/2013/09/logomarca_-_jovempan_am__fundo_branco_.jpg" group-title="Radios",Joven Pan AM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1209.ts
+#EXTINF:-1 tvg-id="" tvg-name="Joven Pan FM" tvg-logo="http://www.ismaelcarvalho.com.br/wp-content/uploads/2013/09/logomarca_-_jovempan_am__fundo_branco_.jpg" group-title="Radios",Joven Pan FM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1207.ts
+#EXTINF:-1 tvg-id="" tvg-name="Liberdade FM" tvg-logo="http://pbs.twimg.com/profile_images/328610068/lib04.jpg" group-title="Radios",Liberdade FM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1205.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mix Sao Paulo" tvg-logo="http://4.bp.blogspot.com/-xoWo1oihGY0/TxDIc7CW9QI/AAAAAAAAECA/_1tEOppd1N4/s1600/MIX_FM_SP.jpg" group-title="Radios",Mix Sao Paulo
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1204.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nativa" tvg-logo="http://pbs.twimg.com/profile_images/2361418629/cq185y5usamm05n5cmyy_400x400.png" group-title="Radios",Nativa
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1203.ts
+#EXTINF:-1 tvg-id="" tvg-name="Novos Horizontes" tvg-logo="http://1.bp.blogspot.com/-koxLzQoHb2w/VCQ5A5Fy8XI/AAAAAAAAWZw/NYh-XCMdqp0/s1600/RADIO_NOVOS_HORIZONTES_FM_SANTO_ANGELO_RS.jpg" group-title="Radios",Novos Horizontes
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1201.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pajucara FM" tvg-logo="http://pbs.twimg.com/profile_images/830158887940657153/_fCjGprV.jpg" group-title="Radios",Pajucara FM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1200.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio 104 FM" tvg-logo="http://static-media.streema.com/media/object-images/a109b896-168b-4b39-b46b-1908c4d53d2d.jpg" group-title="Radios",Radio 104 FM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1199.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Bandeirantes Campinas" tvg-logo="http://static-media.streema.com/media/object-images/a109b896-168b-4b39-b46b-1908c4d53d2d.jpg" group-title="Radios",Radio Bandeirantes Campinas
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1198.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Caicara FM/AM" tvg-logo="http://www.redepampa.com.br/novo/radiosonline/jplayer-html5/gifs/caicara.png" group-title="Radios",Radio Caicara FM/AM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1197.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Capao FM" tvg-logo="" group-title="Radios",Radio Capao FM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1196.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Continental FM" tvg-logo="" group-title="Radios",Radio Continental FM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1195.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Disney" tvg-logo="" group-title="Radios",Radio Disney
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1194.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Eldorado FM" tvg-logo="" group-title="Radios",Radio Eldorado FM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1193.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Flashback" tvg-logo="" group-title="Radios",Radio Flashback
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1192.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio FM Premium" tvg-logo="" group-title="Radios",Radio FM Premium
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1191.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Funk Neurotico" tvg-logo="" group-title="Radios",Radio Funk Neurotico
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1190.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Grenal FM" tvg-logo="" group-title="Radios",Radio Grenal FM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1189.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Hunter Pop" tvg-logo="" group-title="Radios",Radio Hunter Pop
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1188.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Imbe FM" tvg-logo="" group-title="Radios",Radio Imbe FM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1187.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Interativa FM" tvg-logo="" group-title="Radios",Radio Interativa FM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1186.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Liberdade FM" tvg-logo="http://www.redepampa.com.br/novo/radiosonline/jplayer-html5/gifs/liberdade.png" group-title="Radios",Radio Liberdade FM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1185.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Mania FM" tvg-logo="http://player.radiomania.com.br/imagens/logo.png" group-title="Radios",Radio Mania FM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1184.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Maxima FM" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/8/82/Maximafm.png" group-title="Radios",Radio Maxima FM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1183.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Mix FM" tvg-logo="http://pbs.twimg.com/profile_images/1592841029/AVATAR_-_TWITTER_MIX_MARINGA.png" group-title="Radios",Radio Mix FM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1182.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Otima FM" tvg-logo="http://1.bp.blogspot.com/-nI69za-s4sY/UZVxInGqldI/AAAAAAAALBM/aONiaQvDjZU/s1600/images+(4).jpg" group-title="Radios",Radio Otima FM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1181.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Pampa FM" tvg-logo="http://www.redepampa.com.br/novo/radiosonline/jplayer-html5/gifs/pampa.png" group-title="Radios",Radio Pampa FM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1180.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Praia FM" tvg-logo="" group-title="Radios",Radio Praia FM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1179.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Princesa FM" tvg-logo="" group-title="Radios",Radio Princesa FM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1178.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Tramandai FM" tvg-logo="" group-title="Radios",Radio Tramandai FM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1177.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Tudo FM" tvg-logo="" group-title="Radios",Radio Tudo FM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1176.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Xangri-la FM" tvg-logo="" group-title="Radios",Radio Xangri-la FM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1175.ts
+#EXTINF:-1 tvg-id="" tvg-name="Somzoom Sat FM" tvg-logo="" group-title="Radios",Somzoom Sat FM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1174.ts
+#EXTINF:-1 tvg-id="" tvg-name="Transamerica" tvg-logo="" group-title="Radios",Transamerica
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1173.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vale FM" tvg-logo="" group-title="Radios",Vale FM
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1172.ts
+#EXTINF:-1 tvg-id="" tvg-name="Verdes Mares" tvg-logo="" group-title="Radios",Verdes Mares
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1171.ts
+#EXTINF:-1 tvg-id="" tvg-name="Web Brasil Funk" tvg-logo="" group-title="Radios",Web Brasil Funk
+http://srv.elitehdbr.com:25461/live/alessandra2/alessandra2/1170.ts
+#EXTINF:-1 tvg-id="" tvg-name="A CHEGADA" tvg-logo="http://srv.elitehdbr.com:25461/images/2543164.jpg" group-title="Filmes On-Demand",A CHEGADA
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A GAROTA NO TREM" tvg-logo="http://srv.elitehdbr.com:25461/images/3631112.jpg" group-title="Filmes On-Demand",A GAROTA NO TREM
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1118.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE MURALHA" tvg-logo="http://srv.elitehdbr.com:25461/images/2034800.jpg" group-title="Filmes On-Demand",A GRANDE MURALHA
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A VIGILANTE DO AMANHÃ" tvg-logo="http://srv.elitehdbr.com:25461/images/1219827.jpg" group-title="Filmes On-Demand",A VIGILANTE DO AMANHÃ
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAIS FANTÁSTICOS E ONDE HABITAM" tvg-logo="http://srv.elitehdbr.com:25461/images/3183660.jpg" group-title="Filmes On-Demand",ANIMAIS FANTÁSTICOS E ONDE HABITAM
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A BELA E A FERA" tvg-logo="http://srv.elitehdbr.com:25461/images/2771200.jpg" group-title="Filmes On-Demand",A BELA E A FERA
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A 5 ONDA" tvg-logo="http://srv.elitehdbr.com:25461/images/2304933.jpg" group-title="Filmes On-Demand",A 5 ONDA
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A BRUXA" tvg-logo="http://srv.elitehdbr.com:25461/images/4263482.jpg" group-title="Filmes On-Demand",A BRUXA
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A ERA DO GELO - BIG BANG" tvg-logo="http://srv.elitehdbr.com:25461/images/3416828.jpg" group-title="Filmes On-Demand",A ERA DO GELO - BIG BANG
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AGUAS RASAS" tvg-logo="http://srv.elitehdbr.com:25461/images/4052882.jpg" group-title="Filmes On-Demand",AGUAS RASAS
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1140.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ANJOS DA NOITE 5 – GUERRAS DE SANGUE" tvg-logo="http://srv.elitehdbr.com:25461/images/3717252.jpg" group-title="Filmes On-Demand",ANJOS DA NOITE 5 – GUERRAS DE SANGUE
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AS TARTARUGAS NINJAS - FORA DAS SOMBRAS" tvg-logo="http://srv.elitehdbr.com:25461/images/3949660.jpg" group-title="Filmes On-Demand",AS TARTARUGAS NINJAS - FORA DAS SOMBRAS
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ASSASSINO A PREÇO FIXO 2" tvg-logo="http://srv.elitehdbr.com:25461/images/3522806.jpg" group-title="Filmes On-Demand",ASSASSINO A PREÇO FIXO 2
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ATÉ O ÚLTIMO HOMEM" tvg-logo="http://srv.elitehdbr.com:25461/images/2119532.jpg" group-title="Filmes On-Demand",ATÉ O ÚLTIMO HOMEM
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BATMAN VS. SUPERMAN" tvg-logo="http://srv.elitehdbr.com:25461/images/2975590.jpg" group-title="Filmes On-Demand",BATMAN VS. SUPERMAN
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1157.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BEN-HUR" tvg-logo="http://srv.elitehdbr.com:25461/images/2638144.jpg" group-title="Filmes On-Demand",BEN-HUR
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CAPITÃO AMÉRICA: GUERRA CIVIL" tvg-logo="http://srv.elitehdbr.com:25461/images/3498820.jpg" group-title="Filmes On-Demand",CAPITÃO AMÉRICA: GUERRA CIVIL
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DEUSES DO EGITO" tvg-logo="http://srv.elitehdbr.com:25461/images/2404233.jpg" group-title="Filmes On-Demand",DEUSES DO EGITO
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DOUTOR ESTRANHO" tvg-logo="http://srv.elitehdbr.com:25461/images/1211837.jpg" group-title="Filmes On-Demand",DOUTOR ESTRANHO
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESQUADRÃO SUICIDA" tvg-logo="http://srv.elitehdbr.com:25461/images/1386697.jpg" group-title="Filmes On-Demand",ESQUADRÃO SUICIDA
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="JACK REACHER" tvg-logo="http://srv.elitehdbr.com:25461/images/0790724.jpg" group-title="Filmes On-Demand",JACK REACHER
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="JASON BOURNE" tvg-logo="http://srv.elitehdbr.com:25461/images/4196776.jpg" group-title="Filmes On-Demand",JASON BOURNE
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="JOHN WICK 2" tvg-logo="http://srv.elitehdbr.com:25461/images/4425200.jpg" group-title="Filmes On-Demand",JOHN WICK 2
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KONG A ILHA DA CAVEIRA" tvg-logo="http://srv.elitehdbr.com:25461/images/3731562.jpg" group-title="Filmes On-Demand",KONG A ILHA DA CAVEIRA
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KUNG FUN PANDA 3" tvg-logo="http://srv.elitehdbr.com:25461/images/2267968.jpg" group-title="Filmes On-Demand",KUNG FUN PANDA 3
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LOGAN" tvg-logo="http://srv.elitehdbr.com:25461/images/3315342.jpg" group-title="Filmes On-Demand",LOGAN
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MAX STEEL" tvg-logo="http://srv.elitehdbr.com:25461/images/1472584.jpg" group-title="Filmes On-Demand",MAX STEEL
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MEU AMIGO O DRAGÃ0" tvg-logo="http://srv.elitehdbr.com:25461/images/2788732.jpg" group-title="Filmes On-Demand",MEU AMIGO O DRAGÃ0
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MOANA – UM MAR DE AVENTURAS" tvg-logo="http://srv.elitehdbr.com:25461/images/3521164.jpg" group-title="Filmes On-Demand",MOANA – UM MAR DE AVENTURAS
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O BOM GIGANTE AMIGO" tvg-logo="http://srv.elitehdbr.com:25461/images/3691740.jpg" group-title="Filmes On-Demand",O BOM GIGANTE AMIGO
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O CAÇADOR E A RAINHA DE GELO" tvg-logo="http://srv.elitehdbr.com:25461/images/2381991.jpg" group-title="Filmes On-Demand",O CAÇADOR E A RAINHA DE GELO
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O CONTADOR" tvg-logo="http://srv.elitehdbr.com:25461/images/2140479.jpg" group-title="Filmes On-Demand",O CONTADOR
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O ESPAÇO ENTRE NÓS" tvg-logo="http://srv.elitehdbr.com:25461/images/3922818.jpg" group-title="Filmes On-Demand",O ESPAÇO ENTRE NÓS
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O LAR DAS CRIANÇAS PECULIARES" tvg-logo="http://srv.elitehdbr.com:25461/images/1935859.jpg" group-title="Filmes On-Demand",O LAR DAS CRIANÇAS PECULIARES
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OS CAÇA FANTASMAS 2016" tvg-logo="http://srv.elitehdbr.com:25461/images/1289401.jpg" group-title="Filmes On-Demand",OS CAÇA FANTASMAS 2016
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OS CAÇA NOIVAS" tvg-logo="http://srv.elitehdbr.com:25461/images/2823054.jpg" group-title="Filmes On-Demand",OS CAÇA NOIVAS
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PASSAGEIROS" tvg-logo="http://srv.elitehdbr.com:25461/images/1355644.jpg" group-title="Filmes On-Demand",PASSAGEIROS
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PERFEITA É A MÃE" tvg-logo="http://srv.elitehdbr.com:25461/images/4651520.jpg" group-title="Filmes On-Demand",PERFEITA É A MÃE
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PETS A VIDA SECRETA DOS BICHOS" tvg-logo="http://srv.elitehdbr.com:25461/images/2709768.jpg" group-title="Filmes On-Demand",PETS A VIDA SECRETA DOS BICHOS
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PROCURANDO DORY" tvg-logo="http://srv.elitehdbr.com:25461/images/2277860.jpg" group-title="Filmes On-Demand",PROCURANDO DORY
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="REI ARTHUR" tvg-logo="http://srv.elitehdbr.com:25461/images/0349683.jpg" group-title="Filmes On-Demand",REI ARTHUR
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UM ESPIÃO E MEIO" tvg-logo="http://srv.elitehdbr.com:25461/images/1489889.jpg" group-title="Filmes On-Demand",UM ESPIÃO E MEIO
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VELOZES E FURIOSOS 8" tvg-logo="http://srv.elitehdbr.com:25461/images/4630562.jpg" group-title="Filmes On-Demand",VELOZES E FURIOSOS 8
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VIDA" tvg-logo="http://srv.elitehdbr.com:25461/images/5442430.jpg" group-title="Filmes On-Demand",VIDA
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VIZINHOS NADA SECRETOS" tvg-logo="http://srv.elitehdbr.com:25461/images/2387499.jpg" group-title="Filmes On-Demand",VIZINHOS NADA SECRETOS
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WARCRAFT" tvg-logo="http://srv.elitehdbr.com:25461/images/0803096.jpg" group-title="Filmes On-Demand",WARCRAFT
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX REATIVADO" tvg-logo="http://srv.elitehdbr.com:25461/images/1293847.jpg" group-title="Filmes On-Demand",XXX REATIVADO
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CREED" tvg-logo="http://srv.elitehdbr.com:25461/images/3076658.jpg" group-title="Filmes On-Demand",CREED
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EVERESTE" tvg-logo="http://srv.elitehdbr.com:25461/images/2719848.jpg" group-title="Filmes On-Demand",EVERESTE
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GOOSEBUMPS" tvg-logo="http://srv.elitehdbr.com:25461/images/1051904.jpg" group-title="Filmes On-Demand",GOOSEBUMPS
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PETER PAN" tvg-logo="http://srv.elitehdbr.com:25461/images/3332064.jpg" group-title="Filmes On-Demand",PETER PAN
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ASSASSIN’S CREED" tvg-logo="http://srv.elitehdbr.com:25461/images/2094766.jpg" group-title="Filmes On-Demand",ASSASSIN’S CREED
+http://srv.elitehdbr.com:25461/movie/alessandra2/alessandra2/1227.mp4
